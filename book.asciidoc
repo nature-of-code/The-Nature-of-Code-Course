@@ -3,3 +3,5 @@
 = Nature of Code Class
 
 include::variables_flow_setup_and_draw.asciidoc[]
+
+include::variables_flow_part2.asciidoc[]
