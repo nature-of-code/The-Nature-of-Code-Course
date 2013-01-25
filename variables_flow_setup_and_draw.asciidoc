@@ -1,4 +1,16 @@
 == Flow, setup and draw (Part I)
 
+In this section, we cover:
+
+* The main event loop
+* Creating variables
+* Basic Interaction
+* Foo
+* Bar
 
 video::http://d4uxalfja0cvd.cloudfront.net/1234000000898/videos/dc107985e8648ca28d032b104422c4ea.mp4[poster='http://d4uxalfja0cvd.cloudfront.net/1234000000898/videos/dc107985e8648ca28d032b104422c4ea_4.jpg']
+
+=== Exercise
+
+There's probably a creative excercise I could make here, but instead I've just shown a bouncing ball:
+
