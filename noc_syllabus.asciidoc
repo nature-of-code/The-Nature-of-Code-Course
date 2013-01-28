@@ -171,7 +171,7 @@
 
 ** http://www.javaranch.com/campfire/StoryPoly.jsp[How my Dog learned Polymorphism]
 
-** http://www.siggraph.org/education/materials/HyperGraph/animation/particle.htm[Particle Systems (Siggraph)], http://www.cs.unc.edu/\~davemc/Particle/[Particle System API, by David K. McAllister], http://www.cs.wpi.edu/\~matt/courses/cs563/talks/psys.html[Particle Systems by Allen Martin]
+** http://www.siggraph.org/education/materials/HyperGraph/animation/particle.htm[Particle Systems (Siggraph)], http://www.cs.unc.edu/\~davemc/Particle/[Particle System API, by David K. McAllister], http://www.cs.wpi.edu/+++~+++matt/courses/cs563/talks/psys.html[Particle Systems by Allen Martin]
     
 * Homework exercise -- At this point we're a bit deeper in the semester and approaching the midterm project.  Feel free to simply start on a midterm idea or continue something you've been working on previously.  If you would like to try an exercise related to particle systems, here are some suggestions:
 ** Use a particle system in the design of a "Mover" object.  In other words take, say, one of our earlier examples and instead of rendering a Mover object as a simple circle, emit particles from the mover's location.  Consider using the http://www.shiffman.net/2011/02/13/asteroids-spaceship/[Asteroids] example and emit particles from the ship when a thrust force is applied.
