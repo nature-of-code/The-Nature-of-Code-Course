@@ -1,7 +1,7 @@
 == The Nature of Code Studio
 
 * Spring 2013
-* Daniel Shiffman, daniel.shiffman@nyu.edu
+* Daniel Shiffman daniel.shiffman@nyu.edu
 * https://itp.nyu.edu/inwiki/Signup/Shiffman[Office Hours Signup]
 * Wednesdays 9:30 - 3:00 pm
 
