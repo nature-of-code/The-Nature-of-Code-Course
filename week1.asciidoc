@@ -1,5 +1,4 @@
-== Week 1, January 30th
-
+== Week 1: January 30th
 
 Hello!  Welcome to week 1 of The Nature of Code.  Here is an introductory video you can watch (if you are taking the class at ITP you could skip this as I'm going to do the same content in class on the first day.)
 
@@ -16,17 +15,6 @@ Please add your comments to the video here.
 video::http://player.vimeo.com/video/58391447[height='300', width='500', poster='generic_video.png']
 
 Please add your comments to this video here
-
-==== Homework:
-
-The exercises below are suggestions, for this first week's assignment a more open-ended wording might read: 
-"Experiment with motion in Processing."
-
-* Take a look through the random walker examples (shared via dropbox, also https://github.com/shiffman/The-Nature-of-Code/tree/master/prologue[on github]).   Create your own (not so random?) walker.  Post a link to your work, as well as any thoughts on the above, on the http://itp.nyu.edu/varwiki/Nature/Nature[homework wiki]. Some ideas:
-* Try implementing the "self-avoiding walk": http://en.wikipedia.org/wiki/Self-avoiding_walk[http://en.wikipedia.org/wiki/Self-avoiding_walk]
-* Try implement the random walk known as a Levy Flight: http://en.wikipedia.org/wiki/L%C3%A9vy_flight[http://en.wikipedia.org/wiki/L%C3%A9vy_flight]
-* Try a walk in 3D: See: http://en.wikipedia.org/wiki/Quantum_Cloud[http://en.wikipedia.org/wiki/Quantum_Cloud]
-* Use the random walker as a template to simulate some real-world "natural" motion. Can you develop a set of rules for simulating that behavior?  Ideas: nervous fly, hopping bunny, slithering snake, etc.  (Consider the challenge of using minimal visual design, i.e. b&w primitive shapes.  Can you give your "being" a personality?  Can it express emotions -- happiness, sadness, fear, etc.?  
 
 ==== Supplemental Reading:
 * Book 1
