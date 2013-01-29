@@ -1,4 +1,6 @@
-[preface][[homework-week-1]]
+[[homework-week-1]]
+
+[preface]
 == Homework Week 1
 
 The exercises below are suggestions, for this first week's assignment a more open-ended wording might read: 
