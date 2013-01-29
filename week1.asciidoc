@@ -22,11 +22,11 @@ video::http://player.vimeo.com/video/58391447[height='300', width='500', poster=
 * Read along in the http://natureofcode.com/book/introduction/[Nature of Code Introduction]
 * Get code from https://github.com/shiffman/The-Nature-of-Code-Examples/tree/master/Processing/introduction[Nature of Code github repo]
 
-==== Supplemental Reading:
+=== Supplemental Reading:
 * http://www.amazon.com/gp/product/1584503300/[Mathematics and Physics for Programmers], Chapter 5 -- Vectors, Danny Kodicek
 * http://cognet.mit.edu/library/books/view?isbn=0262062003[Computational Beauty of Nature], Introduction, Gary William Flake (you must be logged in through NYU to access the online version.)
 * http://www.probabilitytheory.info/[Probability Theory]
 
-==== Homework
+=== Homework
 
 Move along to the <<homework-week-1,Week 1 Homework>> page.
