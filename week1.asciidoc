@@ -7,7 +7,7 @@ Hello!  Welcome to week 1 of The Nature of Code.  Here is an introductory video 
 
 *Assignment: Sign up for the class mailing list https://groups.google.com/a/itp.nyu.edu/group/natureofcode/[class mailing list]*
 
-==== Introduction Video
+=== Introduction Video
 
 video::http://player.vimeo.com/video/58388167[height='300', width='500', poster='generic_video.png']
 
@@ -15,7 +15,7 @@ video::http://player.vimeo.com/video/58388167[height='300', width='500', poster=
 * http://processing.org[Processing]
 * http://natureofcode.com[The Nature of Code book web site]
 
-==== Random Walker Video
+=== Random Walker Video
 
 video::http://player.vimeo.com/video/58391447[height='300', width='500', poster='generic_video.png']
 
@@ -27,4 +27,6 @@ video::http://player.vimeo.com/video/58391447[height='300', width='500', poster=
 * http://cognet.mit.edu/library/books/view?isbn=0262062003[Computational Beauty of Nature], Introduction, Gary William Flake (you must be logged in through NYU to access the online version.)
 * http://www.probabilitytheory.info/[Probability Theory]
 
-<<homework-week-1,Week 1 Homework>>
+==== Homework
+
+Move along to the <<homework-week-1,Week 1 Homework>> page.
