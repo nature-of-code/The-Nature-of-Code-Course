@@ -34,3 +34,14 @@
 * Week 12: May 1 Neural Networks
 * Week 13: May 7 Final Project Workshop
 * Week 14: May 14 Final Project Extravaganza
+
+===== Requirements
+
+* Students are required to complete a programming exercise each week. A link to documentation for each assignment should be posted to  this site using the comments (see instructions on homework pages).
+* Each week, a selection of students will be assigned to present their homework assignment in class.
+* Students should also submit questions
+
+Requirements: (no incompletes)
+50% homeworks
+30% final project
+20% class participation, attendance

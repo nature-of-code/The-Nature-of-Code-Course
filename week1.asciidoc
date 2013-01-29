@@ -20,7 +20,32 @@ video::http://player.vimeo.com/video/58388167[height='300', width='500', poster=
 video::http://player.vimeo.com/video/58391447[height='300', width='500', poster='generic_video.png']
 
 * Read along in the http://natureofcode.com/book/introduction/[Nature of Code Introduction]
-* Get code from https://github.com/shiffman/The-Nature-of-Code-Examples/tree/master/Processing/introduction[Nature of Code github repo]
+* https://github.com/shiffman/The-Nature-of-Code-Examples/tree/master/Processing/introduction/NOC_I_1_RandomWalkTraditional[Example I.1: Random Walk Traditional]
+=== Probability Video
+
+video::http://player.vimeo.com/video/58400734[height='300', width='500', poster='generic_video.png']
+
+* Read along in the http://natureofcode.com/book/introduction/#intro_section3[Nature of Code I.3]
+* https://github.com/shiffman/The-Nature-of-Code-Examples/tree/master/Processing/introduction/NOC_I_2_RandomDistribution[Example I.2: Random Number Distribution]
+* https://github.com/shiffman/The-Nature-of-Code-Examples/tree/master/Processing/introduction/NOC_I_3_RandomWalkTendsToRight[Example I.3: Random Walker Tends to Right]
+
+=== Gaussian Distribution Video
+
+video::http://player.vimeo.com/video/58489018[height='300', width='500', poster='generic_video.png']
+
+* Read along in the http://natureofcode.com/book/introduction/#intro_section4[Nature of Code I.4]
+* https://github.com/shiffman/The-Nature-of-Code-Examples/tree/master/Processing/introduction/NOC_I_4_Gaussian[Example I.4: Gaussian Distribution]
+
+=== Monte Carlo Video
+
+* Read along in the http://natureofcode.com/book/introduction/#intro_section5[Nature of Code I.5]
+* https://github.com/shiffman/The-Nature-of-Code-Examples/tree/master/Processing/introduction/MonteCarloDistribution[Example: Custom Distribution] 
+
+=== Perlin Noise Video
+
+* Read along in the http://natureofcode.com/book/introduction/#intro_section6[Nature of Code I.6]
+* https://github.com/shiffman/The-Nature-of-Code-Examples/tree/master/Processing/introduction/NOC_I_5_NoiseWalk[Example: Noise Walk]
+* https://github.com/shiffman/The-Nature-of-Code-Examples/tree/master/Processing/introduction/Exercise_I_10_NoiseLandscape[Exercise I.10: Noise Landscape] 
 
 === Supplemental Reading
 * http://www.amazon.com/gp/product/1584503300/[Mathematics and Physics for Programmers], Chapter 5 -- Vectors, Danny Kodicek
