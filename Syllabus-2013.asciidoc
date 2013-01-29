@@ -5,7 +5,7 @@
 * https://itp.nyu.edu/inwiki/Signup/Shiffman[Office Hours Signup]
 * Wednesdays 9:30 - 3:00 pm
 
-What? 5.5 hours? What?  How is this going to work?  Here is the schedule we are going to start with.
+==== What? 5.5 hours? What?  How is this going to work?  Here is the schedule we are going to start with.
 
 * 9:30 - 10:30: open work time, individual help
 * 10:30 - 12:00: full class meeting, questions, project presentations, guest lectures
