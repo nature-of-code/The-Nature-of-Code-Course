@@ -1,0 +1,7 @@
+:bookseries: basic
+
+= Nature of Code Course
+
+include::Syllabus-2013.asciidoc[]
+
+include::week1.asciidoc[]
