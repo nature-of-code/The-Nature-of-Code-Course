@@ -11,9 +11,6 @@ Hello!  Welcome to week 1 of The Nature of Code.  Here is an introductory video 
 
 video::http://player.vimeo.com/video/58388167[height='300', width='500', poster='generic_video.png']
 
-Please add your comments to the video here.
-
-Links referenced in the video:
 * http://itp.nyu.edu[ITP]
 * http://processing.org[Processing]
 * http://natureofcode.com[The Nature of Code book web site]
@@ -21,8 +18,6 @@ Links referenced in the video:
 ==== Random Walker Video
 
 video::http://player.vimeo.com/video/58391447[height='300', width='500', poster='generic_video.png']
-
-Please add your comments to this video here
 
 * Read along in the http://natureofcode.com/book/introduction/[Nature of Code Introduction]
 * Get code from https://github.com/shiffman/The-Nature-of-Code-Examples/tree/master/Processing/introduction[Nature of Code github repo]
