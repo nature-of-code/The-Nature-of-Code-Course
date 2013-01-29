@@ -11,12 +11,21 @@ video::http://player.vimeo.com/video/58388167[height='300', width='500', poster=
 
 Please add your comments to the video here.
 
+Links referenced in the video:
+* http://itp.nyu.edu[ITP]
+* http://processing.org[Processing]
+* http://natureofcode.com[The Nature of Code book web site]
+
 ==== Random Walker Video
 
 video::http://player.vimeo.com/video/58391447[height='300', width='500', poster='generic_video.png']
 
 Please add your comments to this video here
 
+* Read along in the http://natureofcode.com/book/introduction/[Nature of Code Introduction]
+* Get code from https://github.com/shiffman/The-Nature-of-Code-Examples/tree/master/Processing/introduction[Nature of Code github repo]
+
 ==== Supplemental Reading:
-* Book 1
-* Book 2
+* http://www.amazon.com/gp/product/1584503300/[Mathematics and Physics for Programmers], Chapter 5 -- Vectors, Danny Kodicek
+* http://cognet.mit.edu/library/books/view?isbn=0262062003[Computational Beauty of Nature], Introduction, Gary William Flake (you must be logged in through NYU to access the online version.)
+* http://www.probabilitytheory.info/[Probability Theory]
