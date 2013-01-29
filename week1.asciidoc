@@ -21,4 +21,4 @@ Please add your comments to this video here
 * Book 1
 * Book 2
 
-<<week-1-homework,Week 1 Homework>>
+<<homework-week-1,Week 1 Homework>>
