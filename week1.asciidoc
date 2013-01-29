@@ -53,6 +53,8 @@ video::http://player.vimeo.com/video/58489018[height='300', width='500', poster=
 * https://github.com/shiffman/The-Nature-of-Code-Examples/tree/master/Processing/introduction/Exercise_I_10_NoiseLandscape[Exercise I.10: Noise Landscape] 
 
 === Supplemental Reading
+
+* http://natureofcode.com/book/introduction/[The Nature of Code Introduction]
 * http://www.amazon.com/gp/product/1584503300/[Mathematics and Physics for Programmers], Chapter 5 -- Vectors, Danny Kodicek
 * http://cognet.mit.edu/library/books/view?isbn=0262062003[Computational Beauty of Nature], Introduction, Gary William Flake (you must be logged in through NYU to access the online version.)
 * http://www.probabilitytheory.info/[Probability Theory]
