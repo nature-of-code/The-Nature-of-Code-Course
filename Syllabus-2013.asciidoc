@@ -19,7 +19,7 @@
 * Mailing list: https://groups.google.com/a/itp.nyu.edu/group/natureofcode/[https://groups.google.com/a/itp.nyu.edu/group/natureofcode/]
 
 ==== Schedule
-* Week 1: Jan 30, Introduction
+* <<week1,Week 1: Jan 30, Introduction>>
 * Week 2: Feb 6, Vectors and Forces
 * Week 3: Feb 13, Oscillation
 * Week 4: Feb 20, Particle Systems

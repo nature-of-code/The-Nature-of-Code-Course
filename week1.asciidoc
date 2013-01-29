@@ -1,3 +1,5 @@
+[[week1]]
+
 [preface]
 == Week 1: January 30th
 
@@ -29,3 +31,5 @@ Please add your comments to this video here
 * http://www.amazon.com/gp/product/1584503300/[Mathematics and Physics for Programmers], Chapter 5 -- Vectors, Danny Kodicek
 * http://cognet.mit.edu/library/books/view?isbn=0262062003[Computational Beauty of Nature], Introduction, Gary William Flake (you must be logged in through NYU to access the online version.)
 * http://www.probabilitytheory.info/[Probability Theory]
+
+<<homework-week-1,Week 1 Homework>>
