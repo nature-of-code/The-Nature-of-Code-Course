@@ -1,4 +1,4 @@
-[preface]
+[preface][[week1]]
 == Week 1: January 30th
 
 Hello!  Welcome to week 1 of The Nature of Code.  Here is an introductory video you can watch (if you are taking the class at ITP you could skip this as I'm going to do the same content in class on the first day.)
