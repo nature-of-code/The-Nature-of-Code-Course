@@ -38,10 +38,14 @@ video::http://player.vimeo.com/video/58489018[height='300', width='500', poster=
 
 === Monte Carlo Video
 
+video::http://player.vimeo.com/video/58490313[height='300', width='500', poster='generic_video.png']
+
 * Read along in the http://natureofcode.com/book/introduction/#intro_section5[Nature of Code I.5]
 * https://github.com/shiffman/The-Nature-of-Code-Examples/tree/master/Processing/introduction/MonteCarloDistribution[Example: Custom Distribution] 
 
 === Perlin Noise Video
+
+video::http://player.vimeo.com/video/58489018[height='300', width='500', poster='generic_video.png']
 
 * Read along in the http://natureofcode.com/book/introduction/#intro_section6[Nature of Code I.6]
 * https://github.com/shiffman/The-Nature-of-Code-Examples/tree/master/Processing/introduction/NOC_I_5_NoiseWalk[Example: Noise Walk]
