@@ -21,6 +21,7 @@ video::http://player.vimeo.com/video/58391447[height='300', width='500', poster=
 
 * Read along in the http://natureofcode.com/book/introduction/[Nature of Code Introduction]
 * https://github.com/shiffman/The-Nature-of-Code-Examples/tree/master/Processing/introduction/NOC_I_1_RandomWalkTraditional[Example I.1: Random Walk Traditional]
+
 === Probability Video
 
 video::http://player.vimeo.com/video/58400734[height='300', width='500', poster='generic_video.png']
