@@ -70,16 +70,6 @@ video::http://player.vimeo.com/video/58492076[height='300', width='500', poster=
 * https://github.com/shiffman/The-Nature-of-Code-Examples/tree/master/Processing/introduction/NOC_I_5_NoiseWalk[Example: Noise Walk]
 * https://github.com/shiffman/The-Nature-of-Code-Examples/tree/master/Processing/introduction/Exercise_I_10_NoiseLandscape[Exercise I.10: Noise Landscape] 
 
-[preface]
-== Supplemental Reading
-
-* http://natureofcode.com/book/introduction/[The Nature of Code Introduction]
-* http://www.amazon.com/gp/product/1584503300/[Mathematics and Physics for Programmers], Chapter 5 -- Vectors, Danny Kodicek
-* http://cognet.mit.edu/library/books/view?isbn=0262062003[Computational Beauty of Nature], Introduction, Gary William Flake (you must be logged in through NYU to access the online version.)
-* http://www.probabilitytheory.info/[Probability Theory]
-
-[[homework-week-1]]
-
 [[week1_homework]]
 [preface]
 == Homework Week 1
@@ -100,3 +90,28 @@ The exercises below are suggestions, for this first week's assignment a more ope
 *After completing and documenting your homework add a link to it below using "add comment."*  (Note you need to be logged into Chimera in order for this to work.  If you have trouble, don't worry, just e-mail me and we'll sort it out in class.)  
 
 Homework links go here:
+
+[preface]
+== Supplemental Reading
+
+* http://natureofcode.com/book/introduction/[The Nature of Code Introduction]
+* http://www.amazon.com/gp/product/1584503300/[Mathematics and Physics for Programmers], Chapter 5 -- Vectors, Danny Kodicek
+* http://cognet.mit.edu/library/books/view?isbn=0262062003[Computational Beauty of Nature], Introduction, Gary William Flake (you must be logged in through NYU to access the online version.)
+* http://www.probabilitytheory.info/[Probability Theory]
+
+[preface]
+== Nature of Code related and past projects
+
+Forces
+* http://roberthodgin.com/eyeo-2012/[Robert Hodgin's Eyeo 2012 work]
+* https://vimeo.com/135858[Robert Hodgin's Magnetosphere 1]
+* http://emilywebster.com/abscissa/[Emily Webster ‘The Abscissa Cycle’ NOC 2012]
+
+Oscillation
+* https://vimeo.com/47124314[Mimi Yin and Guang Zhu 'Beluga']
+
+Particle Systems
+
+
+
+
