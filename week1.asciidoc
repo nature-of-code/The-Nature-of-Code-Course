@@ -1,5 +1,14 @@
-[[week1]]
+= Nature of Code: Week 1
 
+Topics for this week include:
+
+* <<week1_random_walk,Random Walks>>
+* <<week1_probability, Probability>>
+* <<week1_gaussian_distributions, Gaussian distributions>>
+* <<week1_monte_carlo,Monte Carlo methods>>
+* <<week1_perlin_noise, Perlin Noise>>
+
+[[week1]]
 [preface]
 == Week 1: January 30th
 
@@ -7,22 +16,24 @@ Hello!  Welcome to week 1 of The Nature of Code.  Here is an introductory video 
 
 *Assignment: Sign up for the class mailing list https://groups.google.com/a/itp.nyu.edu/group/natureofcode/[class mailing list]*
 
-=== Introduction Video
-
 video::http://player.vimeo.com/video/58388167[height='300', width='500', poster='generic_video.png']
 
 * http://itp.nyu.edu[ITP]
 * http://processing.org[Processing]
 * http://natureofcode.com[The Nature of Code book web site]
 
-=== Random Walker Video
+[[week1_random_walk]]
+[preface]
+== Random Walker Video
 
 video::http://player.vimeo.com/video/58391447[height='300', width='500', poster='generic_video.png']
 
 * Read along in the http://natureofcode.com/book/introduction/[Nature of Code Introduction]
 * https://github.com/shiffman/The-Nature-of-Code-Examples/tree/master/Processing/introduction/NOC_I_1_RandomWalkTraditional[Example I.1: Random Walk Traditional]
 
-=== Probability Video
+[[week1_probability]]
+[preface]
+== Probability Video
 
 video::http://player.vimeo.com/video/58400734[height='300', width='500', poster='generic_video.png']
 
@@ -30,21 +41,27 @@ video::http://player.vimeo.com/video/58400734[height='300', width='500', poster=
 * https://github.com/shiffman/The-Nature-of-Code-Examples/tree/master/Processing/introduction/NOC_I_2_RandomDistribution[Example I.2: Random Number Distribution]
 * https://github.com/shiffman/The-Nature-of-Code-Examples/tree/master/Processing/introduction/NOC_I_3_RandomWalkTendsToRight[Example I.3: Random Walker Tends to Right]
 
-=== Gaussian Distribution Video
+[[week1_gaussian_distributions]]
+[preface]
+== Gaussian Distribution Video
 
 video::http://player.vimeo.com/video/58489018[height='300', width='500', poster='generic_video.png']
 
 * Read along in the http://natureofcode.com/book/introduction/#intro_section4[Nature of Code I.4]
 * https://github.com/shiffman/The-Nature-of-Code-Examples/tree/master/Processing/introduction/NOC_I_4_Gaussian[Example I.4: Gaussian Distribution]
 
-=== Monte Carlo Video
+[[week1_monte_carlo]]
+[preface]
+== Monte Carlo Video
 
 video::http://player.vimeo.com/video/58490313[height='300', width='500', poster='generic_video.png']
 
 * Read along in the http://natureofcode.com/book/introduction/#intro_section5[Nature of Code I.5]
 * https://github.com/shiffman/The-Nature-of-Code-Examples/tree/master/Processing/introduction/MonteCarloDistribution[Example: Custom Distribution] 
 
-=== Perlin Noise Video
+[[week1_perlin_noise]]
+[preface]
+== Perlin Noise Video
 
 video::http://player.vimeo.com/video/58492076[height='300', width='500', poster='generic_video.png']
 
@@ -52,13 +69,15 @@ video::http://player.vimeo.com/video/58492076[height='300', width='500', poster=
 * https://github.com/shiffman/The-Nature-of-Code-Examples/tree/master/Processing/introduction/NOC_I_5_NoiseWalk[Example: Noise Walk]
 * https://github.com/shiffman/The-Nature-of-Code-Examples/tree/master/Processing/introduction/Exercise_I_10_NoiseLandscape[Exercise I.10: Noise Landscape] 
 
-=== Supplemental Reading
+[preface]
+== Supplemental Reading
 
 * http://natureofcode.com/book/introduction/[The Nature of Code Introduction]
 * http://www.amazon.com/gp/product/1584503300/[Mathematics and Physics for Programmers], Chapter 5 -- Vectors, Danny Kodicek
 * http://cognet.mit.edu/library/books/view?isbn=0262062003[Computational Beauty of Nature], Introduction, Gary William Flake (you must be logged in through NYU to access the online version.)
 * http://www.probabilitytheory.info/[Probability Theory]
 
-=== Homework
+[preface]
+== Homework
 
 Move along to the <<homework-week-1,Week 1 Homework>> page.
