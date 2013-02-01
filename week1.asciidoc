@@ -111,6 +111,26 @@ Oscillation
 * https://vimeo.com/47124314[Mimi Yin and Guang Zhu 'Beluga']
 
 Particle Systems
+* http://www.youtube.com/watch?v=QXbWCrzWJo4[Genesis Effect from Star TreK II: Wrath of Khan]
+* http://dl.acm.org/citation.cfm?id=357320["Particle Systems—A Technique for Modeling a Class of Fuzzy Objects." William T. Reeves]
+* http://work.gmunk.com/TRON-Fireworks[TRON Fireworks, Josh Nimoy + GMunk]
+* http://www.markbreneman.com/blog1/2012/05/10/nature-of-code-final-patterns-in-pixel-movement/[Patterns in Pixel Movement Mark Breneman (NOC 2012]
+* http://www.karlsims.com/particle-dreams.html[Particle Dreams by Karl Sims]
+
+Physics Libraries
+* http://www.ameliechucky.cl/blah-blah-blobby[Blah blah blobby Marcela Godoy Eunyoung Kang NOC 2012]
+* https://vimeo.com/9090403[Jellies by Cedric Kieffer and Ricardo Sanchez]
+* http://itp.nyu.edu/~jhl589/myblog/portfolio/up/[Up by Ji Hyun Lee]
+* https://vimeo.com/37383446[NeoGeo Marina Zurkow Daniel Shiffman]
+
+Steering (Autonomous Agents, Complexity)
+* http://www.paulmay.org/blog/nature-of-code-creatures/[Creatures by Paul May NOC 2012]
+* http://nicksantan.com/blog/2012/05/xbox_foray/[Nightlifter for XBox by Nick Santaniello NOC 2012]
+
+Fractals, CA, L-Systems, other Rule-Based Systems and stuff. . .
+* http://www.bravomartin.cl/installations/skittish-tree/[Skittish Tree by Martin Bravo NOC 2011]
+* http://n-e-r-v-o-u-s.com/[Anything by Nervous System (Jessica Rosenkrantz and Jesse Louis-Rosenberg)]
+* 
 
 
 
