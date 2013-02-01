@@ -74,8 +74,7 @@ video::http://player.vimeo.com/video/58492076[height='300', width='500', poster=
 [preface]
 == Homework Week 1
 
-The exercises below are suggestions, for this first week's assignment a more open-ended wording might read: 
-"Experiment with motion in Processing."
+For this week's homework, develop a Processing sketch (or program in the environment of your choosing) that experiments with motion.You should feel free to design your own assignment.  If you are stuck for an idea here are some suggestions.  
 
 * Create a random walker with dynamic probabilities.  For example, can you give it a 50% chance of moving in the direction of the mouse?
 *  Gaussian random walk is defined as one in which the step size (how far the object moves in a given direction) is generated with a normal distribution.  Implement this variation of our random walk.
