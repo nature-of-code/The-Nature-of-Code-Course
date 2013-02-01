@@ -102,16 +102,19 @@ Homework links go here:
 [preface]
 == Nature of Code related and past projects
 
-Forces
+=== Forces
+
 * http://roberthodgin.com/eyeo-2012/[Robert Hodgin's Eyeo 2012 work]
 * https://vimeo.com/135858[Robert Hodgin's Magnetosphere 1]
 * http://emilywebster.com/abscissa/[Emily Webster ‘The Abscissa Cycle’ NOC 2012]
 * http://tomgerhardt.com/mudtub/[Mud Tub by Tom Gerhardt NOC 2009]
 
-Oscillation
+=== Oscillation
+
 * https://vimeo.com/47124314[Mimi Yin and Guang Zhu 'Beluga']
 
-Particle Systems
+=== Particle Systems
+
 * http://www.youtube.com/watch?v=QXbWCrzWJo4[Genesis Effect from Star TreK II: Wrath of Khan]
 * http://dl.acm.org/citation.cfm?id=357320["Particle Systems—A Technique for Modeling a Class of Fuzzy Objects." William T. Reeves]
 * http://work.gmunk.com/TRON-Fireworks[TRON Fireworks, Josh Nimoy + GMunk]
@@ -119,22 +122,23 @@ Particle Systems
 * http://www.karlsims.com/particle-dreams.html[Particle Dreams by Karl Sims]
 * https://vimeo.com/11482851[Scrollables by Filippo Vanucci NOC 2010]
 
-Physics Libraries
+=== Physics Libraries
+
 * http://www.ameliechucky.cl/blah-blah-blobby[Blah blah blobby Marcela Godoy Eunyoung Kang NOC 2012]
 * https://vimeo.com/9090403[Jellies by Cedric Kieffer and Ricardo Sanchez]
 * http://itp.nyu.edu/~jhl589/myblog/portfolio/up/[Up by Ji Hyun Lee]
 * https://vimeo.com/37383446[NeoGeo Marina Zurkow Daniel Shiffman]
 
-Steering (Autonomous Agents, Complexity)
+=== Steering (Autonomous Agents, Complexity)
 * http://www.paulmay.org/blog/nature-of-code-creatures/[Creatures by Paul May NOC 2012]
 * http://nicksantan.com/blog/2012/05/xbox_foray/[Nightlifter for XBox by Nick Santaniello NOC 2012]
 * http://www.phlea.tv/molly_blogolly/?p=462[Belly Full of Eels by Molly Schwartz NOC 2010]
 
-Fractals, CA, L-Systems, other Rule-Based Systems and stuff. . .
+=== Fractals, CA, L-Systems, other Rule-Based Systems and stuff. . .
 * http://www.bravomartin.cl/installations/skittish-tree/[Skittish Tree by Martin Bravo NOC 2011]
 * http://n-e-r-v-o-u-s.com/[Anything by Nervous System (Jessica Rosenkrantz and Jesse Louis-Rosenberg)]
 
-Genetic Algorithms
+=== Genetic Algorithms
 * http://www.typegalapagos.com/[Ann Chen & Danne Woo - Galapagos Evolutionary Type Design NOC 2012]
 * http://boxcar2d.com/[BoxCar2D]
 * http://www.karlsims.com/evolved-virtual-creatures.html[Evolved Virtual Creatures]
