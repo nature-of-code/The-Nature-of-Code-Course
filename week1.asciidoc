@@ -25,7 +25,7 @@ video::http://player.vimeo.com/video/58388167[height='300', width='500', poster=
 
 [[week1_random_walk]]
 [preface]
-== Random Walker Video
+== Random Walker
 
 video::http://player.vimeo.com/video/58391447[height='300', width='500', poster='generic_video.png']
 
@@ -34,7 +34,7 @@ video::http://player.vimeo.com/video/58391447[height='300', width='500', poster=
 
 [[week1_probability]]
 [preface]
-== Probability Video
+== Probability
 
 video::http://player.vimeo.com/video/58400734[height='300', width='500', poster='generic_video.png']
 
@@ -44,7 +44,7 @@ video::http://player.vimeo.com/video/58400734[height='300', width='500', poster=
 
 [[week1_gaussian_distributions]]
 [preface]
-== Gaussian Distribution Video
+== Gaussian Distribution
 
 video::http://player.vimeo.com/video/58489018[height='300', width='500', poster='generic_video.png']
 
@@ -53,7 +53,7 @@ video::http://player.vimeo.com/video/58489018[height='300', width='500', poster=
 
 [[week1_monte_carlo]]
 [preface]
-== Monte Carlo Video
+== Monte Carlo
 
 video::http://player.vimeo.com/video/58490313[height='300', width='500', poster='generic_video.png']
 
@@ -62,7 +62,7 @@ video::http://player.vimeo.com/video/58490313[height='300', width='500', poster=
 
 [[week1_perlin_noise]]
 [preface]
-== Perlin Noise Video
+== Perlin Noise
 
 video::http://player.vimeo.com/video/58492076[height='300', width='500', poster='generic_video.png']
 
