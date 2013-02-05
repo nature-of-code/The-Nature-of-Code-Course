@@ -73,8 +73,8 @@ Choose one or create your own. Post your work as a link in the comments below.
 * Research a force not covered in class and implement it as a vector.
 * Use the concept of forces to visualize some input (could be data, literal example would be get windspeed online and translate to a wind force in Processing, but feel free to think more abstractly)
 * Build a sketch that has both "Movers" and "Attractors".  What if you make the Attractors invisible?  Can you create a pattern / design from the trails of objects moving around attractors?  See the http://processing.org/exhibition/works/metropop/[Metropop Denim project by Clayton Cubitt and Tom Carden] for an example.
-*You'll need to create a web page to document your homework.*  It could be as simple as the auto-generated page created by Processing's JavaScript mode.  It could also be a blog post or something custom you design.
-*After completing and documenting your homework add a link to it below using "add comment."*  (Note you need to be logged into Chimera in order for this to work.  If you have trouble, don't worry, just e-mail me and we'll sort it out in class.)  
+
+Just as with last week, please create a web page to document your homework. Make sure it include some visual documentation of your work as well as the source code.
 
 Homework links go here:
 
