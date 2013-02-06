@@ -2,7 +2,7 @@
 
 Topics for this week include:
 
-* <<week2_vectors,What is a vector?>
+* <<week2_vectors,What is a vector?>>
 * <<week2_pvector, PVector class basics>>
 * <<week2_vectormath, Vector math>>
 * <<week2_physics, Physics 101: location,velocity,acceleration>>
@@ -87,7 +87,7 @@ video::http://player.vimeo.com/video/59028634[height='300', width='500', poster=
 
 * This video shows how to add mass to your object for a simulation with shapes of different sizes. 
 * Read along: http://natureofcode.com/book/chapter-2-forces/#chapter02_section4[The Nature of Code 2.4]
-* https://github.com/shiffman/The-Nature-of-Code-Examples/tree/master/Processing/chp2_forces/NOC_2_3_forces_many_realgravity[Example 23: Forces with mass (also demonstrates "real-world" gravity on earth)]
+* https://github.com/shiffman/The-Nature-of-Code-Examples/tree/master/Processing/chp2_forces/NOC_2_3_forces_many_realgravity[Example 2.3: Forces with mass (also demonstrates "real-world" gravity on earth)]
 
 [[week2_friction_drag]]
 [preface]
@@ -120,6 +120,7 @@ Choose one or create your own. Post your work as a link in the comments below.
 
 Just as with last week, please create a web page to document your homework. Make sure it include some visual documentation of your work as well as the source code.
 
+[[homework_week2_links]]
 Select this paragraph to add a comment below with your homework link:
 
 [preface]
