@@ -121,7 +121,11 @@ Choose one or create your own. Post your work as a link in the comments below.
 Just as with last week, please create a web page to document your homework. Make sure it include some visual documentation of your work as well as the source code.
 
 [[homework_week2_links]]
-Select this paragraph to add a comment below with your homework link:
+[role="shoutout"]
+.Post your homework
+****
+Post a link to your homework assignment here.
+****
 
 [preface]
 == Supplemental Reading
