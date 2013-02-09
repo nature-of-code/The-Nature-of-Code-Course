@@ -83,7 +83,7 @@ video::http://player.vimeo.com/video/59028634[height='300', width='500', poster=
 [preface]
 == Incorporating mass
 
-video::http://player.vimeo.com/video/59028634[height='300', width='500', poster='generic_video.png']
+video::http://player.vimeo.com/video/59028632[height='300', width='500', poster='generic_video.png']
 
 * This video shows how to add mass to your object for a simulation with shapes of different sizes. 
 * Read along: http://natureofcode.com/book/chapter-2-forces/#chapter02_section4[The Nature of Code 2.4]
