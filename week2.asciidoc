@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 = Nature of Code: Week 2
 
 Topics for this week include:
@@ -137,3 +138,148 @@ Select this paragraph to add a comment below with your homework link:
 
 
 
+=======
+= Nature of Code: Week 2
+
+Topics for this week include:
+
+* <<week2_vectors,What is a vector?>>
+* <<week2_pvector, PVector class basics>>
+* <<week2_vectormath, Vector math>>
+* <<week2_physics, Physics 101: location,velocity,acceleration>>
+* <<week2_newton, Newton's Laws: F=M*A>>
+* <<week2_applyforce, Applying a Force>>
+* <<week2_mass, Incorporating mass>>
+* <<week2_friction_drag, Friction and Drag>>
+* <<week2_gravitational_attraction, Gravitational Attraction>>
+
+[[week2_vectors]]
+[preface]
+== What is a vector?
+
+video::http://player.vimeo.com/video/58734251[height='300', width='500', poster='generic_video.png']
+
+* Read along in the http://natureofcode.com/book/chapter-1-vectors/[Nature of Code Chapter 1: Vectors]
+
+
+[[week2_pvector]]
+[preface]
+== The PVector class
+
+video::http://player.vimeo.com/video/58943395[height='300', width='500', poster='generic_video.png']
+
+* Read along in the http://natureofcode.com/book/chapter-1-vectors/[Nature of Code Chapter 1: Vectors]
+* https://github.com/shiffman/The-Nature-of-Code-Examples/tree/master/Processing/chp1_vectors/NOC_1_1_bouncingball_novectors[Example 1.1: Bouncing Ball, no vectors]
+* https://github.com/shiffman/The-Nature-of-Code-Examples/tree/master/Processing/chp1_vectors/NOC_1_2_bouncingball_vectors[Example 1.2: Bouncing Ball, with vectors!]
+
+[[week2_vectormath]]
+[preface]
+== Basic Vector Math
+
+video::http://player.vimeo.com/video/58943394[height='300', width='500', poster='generic_video.png']
+
+* Read along in the http://natureofcode.com/book/chapter-1-vectors/[Nature of Code Chapter 1: Vectors]
+* https://github.com/shiffman/The-Nature-of-Code-Examples/tree/master/Processing/chp1_vectors/NOC_1_3_vector_subtraction[Example 1.3: Vector Subtraction]
+* https://github.com/shiffman/The-Nature-of-Code-Examples/tree/master/Processing/chp1_vectors/NOC_1_4_vector_multiplication[Example 1.4: Vector multiplication (I mean scaling)]
+
+video::http://player.vimeo.com/video/58943396[height='300', width='500', poster='generic_video.png']
+
+* This video covers mag() and normalize() in the PVector class. 
+* Read along in the http://natureofcode.com/book/chapter-1-vectors/[Nature of Code Chapter 1: Vectors]
+* https://github.com/shiffman/The-Nature-of-Code-Examples/tree/master/Processing/chp1_vectors/NOC_1_5_vector_magnitude[Example 1.5: Vector magnitude] 
+* https://github.com/shiffman/The-Nature-of-Code-Examples/tree/master/Processing/chp1_vectors/NOC_1_6_vector_normalize[Example 1.6: Vector normalize]
+
+[[week2_physics]]
+[preface]
+== Motion 101: Location, Velocity, Acceleration
+
+video::http://player.vimeo.com/video/58943393[height='300', width='500', poster='generic_video.png']
+
+* Read along in the http://natureofcode.com/book/chapter-1-vectors/#chapter01_section8[Nature of Code Section 1.8]
+* https://github.com/shiffman/The-Nature-of-Code-Examples/tree/master/Processing/chp1_vectors/NOC_1_7_motion101[Example 1.7: Constant velocity]
+* https://github.com/shiffman/The-Nature-of-Code-Examples/tree/master/Processing/chp1_vectors/NOC_1_8_motion101_acceleration[Example 1.8: Constant Acceleration]
+* https://github.com/shiffman/The-Nature-of-Code-Examples/tree/master/Processing/chp1_vectors/NOC_1_9_motion101_accelerationp[Example 1.9: Random Acceleration]
+
+[[week2_newton]]
+[preface]
+== Newton's Laws of Motion: F = M*A
+
+video::http://player.vimeo.com/video/59028633[height='300', width='500', poster='generic_video.png']
+
+* This video discusses the definition of a "force" as well as an overview of Newton's 3 laws of motion.
+* Read along in the http://natureofcode.com/book/chapter-2-forces/[Nature of Code Chapter 2]
+
+[[week2_applyforce]]
+[preface]
+== Applying a force
+
+video::http://player.vimeo.com/video/59028634[height='300', width='500', poster='generic_video.png']
+
+* This video covers how to apply a force to a moving object in Processing. These forces are "made-up" values and don't yet involve more complex formulae (coming soon!) 
+* Read along: http://natureofcode.com/book/chapter-2-forces/#chapter02_section2[Nature of Code 2.2]
+* https://github.com/shiffman/The-Nature-of-Code-Examples/tree/master/Processing/chp2_forces/NOC_2_1_forces[Example 2.1: Forces]
+* https://github.com/shiffman/The-Nature-of-Code-Examples/tree/master/Processing/chp2_forces/NOC_2_2_forces_many[Example 2.2: Forces many objects]
+
+[[week2_mass]]
+[preface]
+== Incorporating mass
+
+video::http://player.vimeo.com/video/59028634[height='300', width='500', poster='generic_video.png']
+
+* This video shows how to add mass to your object for a simulation with shapes of different sizes. 
+* Read along: http://natureofcode.com/book/chapter-2-forces/#chapter02_section4[The Nature of Code 2.4]
+* https://github.com/shiffman/The-Nature-of-Code-Examples/tree/master/Processing/chp2_forces/NOC_2_3_forces_many_realgravity[Example 2.3: Forces with mass (also demonstrates "real-world" gravity on earth)]
+
+[[week2_friction_drag]]
+[preface]
+== Forces Case Study: Friction and Drag
+
+* Video coming soon
+* Read along: http://natureofcode.com/book/chapter-2-forces/#chapter02_section7[The Nature of Code 2.7-2.8]
+
+[[week2_gravitational_attraction]]
+[preface]
+== Forces Case Study: Gravitational Attraction
+
+* Video coming soon
+* Read along: http://natureofcode.com/book/chapter-2-forces/#chapter02_section9[The Nature of Code 2.9]
+
+[[week2_homework]]
+[preface]
+== Homework Week 2
+
+Choose one or create your own. Post your work as a link in the comments below.
+
+* Rework your motion sketch from week 1 using PVector.  Try incorporating the concept of _forces_ into the environment by affecting _only_ the acceleration.   Create a formula for calculating a dynamic acceleration, one that changes over time based on any number of factors.  What happens if you make more than one object via an array.
+* Using forces, simulate a helium-filled balloon floating upward (and bouncing off the top of a window).  Can you add a wind force which changes over time, perhaps according to Perlin noise?
+* Create an example where instead of objects bouncing off the edge of the wall, an invisible force pushes back on the objects to keep them in the window.  Can you weight the force according to how far the object is from an edge, i.e. the closer it is, the stronger the force?   
+* Create pockets of air resistance / friction in a Processing sketch.  Try using circles instead of rectangles, i.e. pockets of mud (or ice).  What if you vary the strength (drag / friction coefficient) of each circle?   What if you make some of them the opposite of drag—i.e., when you enter a given pocket you actually speed up instead of slow down?
+* Can you create an example where all of the Mover objects are attracted to the mouse, but repel each other?  Think about how you need to balance the relative strength of the forces and how to most effectively use distance in your force calculations.
+* Research a force not covered in class and implement it as a vector.
+* Use the concept of forces to visualize some input (could be data, literal example would be get windspeed online and translate to a wind force in Processing, but feel free to think more abstractly)
+* Build a sketch that has both "Movers" and "Attractors".  What if you make the Attractors invisible?  Can you create a pattern / design from the trails of objects moving around attractors?  See the http://processing.org/exhibition/works/metropop/[Metropop Denim project by Clayton Cubitt and Tom Carden] for an example.
+
+Just as with last week, please create a web page to document your homework. Make sure it include some visual documentation of your work as well as the source code.
+
+[[homework_week2_links]]
+[role="shoutout"]
+.Post your homework
+****
+Post a link to your homework assignment here.
+****
+
+[preface]
+== Supplemental Reading
+
+* http://natureofcode.com/book/chapter-1-vectors[The Nature of Code Chapter 1: Vectors]
+* http://natureofcode.com/book/chapter-2-forces[The Nature of Code Chapter 2: Forces]
+* http://www.lightandmatter.com/area1book1.html[Newtonian Physics, An Online Textbook] (This is long, you may find Chapter 4 to be particularly relevant to this week's discussion.)
+* http://www.physicsclassroom.com/Class/newtlaws/newtltoc.html[The Physics Classroom -- Newton's Laws]
+* http://www.amazon.com/gp/product/1584503300/[Mathematics and Physics for Programmers], Chapters 12 and 14, Danny Kodicek (suggested)
+
+
+
+
+
+
+>>>>>>> 7004ba0721b0671cc9ad65f89df07b2eac7c053e
