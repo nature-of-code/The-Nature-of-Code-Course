@@ -14,7 +14,6 @@ Because of the large class size and experimental "studio" structure, there is no
 * Colin
 * David
 * Gal
-* GJ
 * Asli
 
 ==== Week 4, Feb 20
@@ -24,6 +23,7 @@ Because of the large class size and experimental "studio" structure, there is no
 * Luca 
 * Maxim
 * Nadine
+* GJ
 
 ==== Week 5, Feb 27
 * Mike A
