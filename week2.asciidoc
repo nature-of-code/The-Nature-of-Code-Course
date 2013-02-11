@@ -135,15 +135,50 @@ Post any questions or comments here.
 [preface]
 == Forces Case Study: Friction and Drag
 
-* Video coming soon
-* Read along: http://natureofcode.com/book/chapter-2-forces/#chapter02_section7[The Nature of Code 2.7-2.8]
+video::http://player.vimeo.com/video/59435251[height='300', width='500', poster='generic_video.png']
+
+[[week2_video7]]
+[role="shoutout"]
+.Confused by this video?
+****
+Post any questions or comments here.
+****
+
+* Read along: http://natureofcode.com/book/chapter-2-forces/#chapter02_section7[The Nature of Code 2.7]
+* http://github.com/shiffman/The-Nature-of-Code-Examples/tree/master/Processing/chp2_forces/NOC_2_4_forces_friction[Example 2.4: Friction]
+
+video::http://player.vimeo.com/video/59435250[height='300', width='500', poster='generic_video.png']
+
+[[week2_video8]]
+[role="shoutout"]
+.Confused by this video?
+****
+Post any questions or comments here.
+****
+
+* Read along: http://natureofcode.com/book/chapter-2-forces/#chapter02_section8[The Nature of Code 2.8]
+* https://github.com/shiffman/The-Nature-of-Code-Examples/tree/master/Processing/chp2_forces/NOC_2_5_fluidresistance[Example 2.5: Fluid Resistance]
+
 
 [[week2_gravitational_attraction]]
 [preface]
 == Forces Case Study: Gravitational Attraction
 
-* Video coming soon
+video::http://player.vimeo.com/video/59435252[height='300', width='500', poster='generic_video.png']
+
+[[week2_video8]]
+[role="shoutout"]
+.Confused by this video?
+****
+Post any questions or comments here.
+****
+
 * Read along: http://natureofcode.com/book/chapter-2-forces/#chapter02_section9[The Nature of Code 2.9]
+* http://github.com/shiffman/The-Nature-of-Code-Examples/tree/master/Processing/chp2_forces/NOC_2_6_attraction[Example 2.6: Attraction]
+* http://github.com/shiffman/The-Nature-of-Code-Examples/tree/master/Processing/chp2_forces/NOC_2_7_attraction_many[Example 2.7: Attraction many]
+* http://github.com/shiffman/The-Nature-of-Code-Examples/tree/master/Processing/chp2_forces/NOC_2_8_mutual_attraction[Example 2.8: Mutual Attraction]
+* https://github.com/shiffman/The-Nature-of-Code-Examples/tree/master/Processing/chp2_forces/NOC_02forces_many_attraction_3D[Extra: Attraction 3D]
+* https://github.com/shiffman/The-Nature-of-Code-Examples/tree/master/Processing/chp2_forces/NOC_02forces_many_mutual_boundaries[Extra: Mutual Attraction w/ boundaries]
 
 [[week2_homework]]
 [preface]
