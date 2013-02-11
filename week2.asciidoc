@@ -18,6 +18,13 @@ Topics for this week include:
 
 video::http://player.vimeo.com/video/58734251[height='300', width='500', poster='generic_video.png']
 
+[[week2_videoA]]
+[role="shoutout"]
+.Confused by this video?
+****
+Post any questions or comments here.
+****
+
 * Read along in the http://natureofcode.com/book/chapter-1-vectors/[Nature of Code Chapter 1: Vectors]
 
 
@@ -26,6 +33,13 @@ video::http://player.vimeo.com/video/58734251[height='300', width='500', poster=
 == The PVector class
 
 video::http://player.vimeo.com/video/58943395[height='300', width='500', poster='generic_video.png']
+
+[[week2_videoB]]
+[role="shoutout"]
+.Confused by this video?
+****
+Post any questions or comments here.
+****
 
 * Read along in the http://natureofcode.com/book/chapter-1-vectors/[Nature of Code Chapter 1: Vectors]
 * https://github.com/shiffman/The-Nature-of-Code-Examples/tree/master/Processing/chp1_vectors/NOC_1_1_bouncingball_novectors[Example 1.1: Bouncing Ball, no vectors]
@@ -166,7 +180,7 @@ Post any questions or comments here.
 
 video::http://player.vimeo.com/video/59435252[height='300', width='500', poster='generic_video.png']
 
-[[week2_video8]]
+[[week2_video9]]
 [role="shoutout"]
 .Confused by this video?
 ****
