@@ -4,6 +4,8 @@
 
 include::Syllabus-2013.asciidoc[]
 
+include::presentation_schedule.asciidoc[]
+
 include::week1.asciidoc[]
 
 include::week2.asciidoc[]
