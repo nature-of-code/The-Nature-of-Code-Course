@@ -14,7 +14,6 @@ Because of the large class size and experimental "studio" structure, there is no
 * Colin
 * David
 * Gal
-* Asli
 
 ==== Week 4, Feb 20
 * Jorge
@@ -42,5 +41,6 @@ Because of the large class size and experimental "studio" structure, there is no
 * Vanessa
 * Lei
 * Bill
+* Asli
 
 Rest of semester TBA

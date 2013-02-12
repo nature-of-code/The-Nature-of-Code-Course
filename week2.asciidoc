@@ -1,3 +1,4 @@
+[[week2]]
 = Nature of Code: Week 2
 
 Topics for this week include:
