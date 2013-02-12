@@ -1,3 +1,4 @@
+[preface]
 == Homework Presentation Schedule
 
 Because of the large class size and experimental "studio" structure, there is not a lot of time in class for homework presentations and critque.  However, I would like everyone to have at least one chance to show their work in class.  It's useful for everyone to get to see example projects along the way each week to week so hopefully this will fill that need.  Here is our schedule:
