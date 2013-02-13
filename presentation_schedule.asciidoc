@@ -15,6 +15,9 @@ Because of the large class size and experimental "studio" structure, there is no
 * Colin
 * David
 * Gal
+* Sam
+* Michelle
+* Peiqi
 
 ==== Week 4, Feb 20
 * Jorge
@@ -33,6 +36,7 @@ Because of the large class size and experimental "studio" structure, there is no
 * Peiqi
 * Rose
 * Youjin
+* Louise
 
 ==== Week 6, Mar 6 
 * Sam
