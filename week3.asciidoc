@@ -114,14 +114,11 @@ As always, please create a web page to document your homework. Make sure it incl
 Post a link to your homework assignment here.
 ****
 
-
-
-
 [preface]
 == Supplemental Reading
 
-* http://natureofcode.com/book/chapter-1-vectors[The Nature of Code Chapter 1: Vectors]
-* http://natureofcode.com/book/chapter-2-forces[The Nature of Code Chapter 2: Forces]
-* http://www.lightandmatter.com/area1book1.html[Newtonian Physics, An Online Textbook] (This is long, you may find Chapter 4 to be particularly relevant to this week's discussion.)
-* http://www.physicsclassroom.com/Class/newtlaws/newtltoc.html[The Physics Classroom -- Newton's Laws]
-* http://www.amazon.com/gp/product/1584503300/[Mathematics and Physics for Programmers], Chapters 12 and 14, Danny Kodicek (suggested)
+* http://natureofcode.com/book/chapter-3-oscillation[The Nature of Code Chapter 3: Oscillation]
+* The Mathematics of Oscillatory Motion (refer to e-mail to class list.)
+* http://www.phy6.org/stargaze/Strig1.htm[Trigonometry, What is it good for?] (follow along to 7 parts)
+* http://www.amazon.com/gp/product/1584503300/[Mathematics and Physics for Programmers], Chapter 4, Danny Kodicek   
+
