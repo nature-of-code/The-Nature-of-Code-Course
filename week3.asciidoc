@@ -70,16 +70,33 @@ Post any questions or comments here.
 [preface]
 == Pendulums
 
-* Video coming soon
-* Read along in: http://natureofcode.com/book/chapter-3-oscillation/#chapter03_section9[Nature of Code Chapter 3.9: Pendulums]
+video::http://player.vimeo.com/video/59707298[height='300', width='500', poster='generic_video.png']
 
+[[week3_video4]]
+[role="shoutout"]
+.Confused by this video?
+****
+Post any questions or comments here.
+****
+
+* Read along in: http://natureofcode.com/book/chapter-3-oscillation/#chapter03_section9[Nature of Code Chapter 3.9: Pendulums]
+* https://github.com/shiffman/The-Nature-of-Code-Examples/tree/master/Processing/chp3_oscillation/NOC_3_10_PendulumExample[Examples 3.10: Pendulum]
 
 [[week3_spring]]
 [preface]
 == Springs
 
-* Video coming soon
+video::http://player.vimeo.com/video/59707299[height='300', width='500', poster='generic_video.png']
+
+[[week3_video5]]
+[role="shoutout"]
+.Confused by this video?
+****
+Post any questions or comments here.
+****
+
 * Read along in: http://natureofcode.com/book/chapter-3-oscillation/#chapter03_section9[Nature of Code Chapter 3.10: Springs]
+* https://github.com/shiffman/The-Nature-of-Code-Examples/tree/master/Processing/chp3_oscillation/NOC_3_11_spring[Examples 3.11: Spring Forces]
 
 [[week3_homework]]
 [preface]
