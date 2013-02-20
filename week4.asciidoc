@@ -8,7 +8,7 @@ Topics for this week include:
 * <<week4_deleting, Deleting from an ArrayList>>
 * <<week4_psclass, Particle System Class, System of Systems>>
 * <<week4_inheritance, Inheritance and Polymorphism>>
-* <<week4_forces, Particle Systems and Forces>
+* <<week4_forces, Particle Systems and Forces>>
 
 [[week4_ps]]
 [preface]
