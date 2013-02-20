@@ -23,7 +23,7 @@
 * <<week1,Week 1: Jan 30 Introduction>>
 * <<week2,Week 2: Feb 6 Vectors and Forces>>
 * <<week3,Week 3: Feb 13 Oscillation>>
-* Week 4: Feb 20 Particle Systems
+* <<week4,Week 4: Feb 20 Particle Systems>>
 * Week 5: Feb 26 Physics Libraries: Box2D
 * Week 6: Mar 6 Physics Libraries: Toxiclibs
 * Week 7: Mar 13 Midterm Project Extravaganza
