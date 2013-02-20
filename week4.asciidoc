@@ -1,0 +1,135 @@
+[[week4]]
+= Nature of Code: Week 4
+
+Topics for this week include:
+
+* <<week4_ps,Particle Systems>>
+* <<week4_arraylist, ArrayLists>>
+* <<week4_deleting, Deleting from an ArrayList>>
+* <<week4_psclass, Particle System Class, System of Systems>>
+* <<week4_inheritance, Inheritance and Polymorphism>>
+* <<week4_forces, Particle Systems and Forces>
+
+[[week4_ps]]
+[preface]
+== Introduction to Particle Systems
+
+video::http://player.vimeo.com/video/60027382[height='300', width='500', poster='generic_video.png']
+
+[[week4_video1]]
+[role="shoutout"]
+.Confused by this video?
+****
+Post any questions or comments here.
+****
+
+* Read along: http://natureofcode.com/book/chapter-4-particle-systems/[The Nature of Code: Chapter 4]
+* Reeves, William T. http://dl.acm.org/citation.cfm?id=357320["Particle Systems—A Technique for Modeling a Class of Fuzzy Objects."] _ACM Transactions on Graphics_ 2:2 (April 1983): 91-108.
+* http://www.youtube.com/watch?v=QXbWCrzWJo4[Genesis Effect on Youtube]
+* Sims, Karl. http://www.karlsims.com/papers/ParticlesSiggraph90.pdf["Particle Animation and Rendering Using Data Parallel Computation."] Paper presented at SIGGRAPH '90: The 17th Annual Conference on Computer Graphics and Interactive Techniques, Dallas, TX, August 6-10, 1990. 
+* http://www.karlsims.com/particle-dreams.html[Sims Particle Dreams Video]
+
+[[week4_arraylist]]
+[preface]
+== What is an ArrayList?
+
+video::http://player.vimeo.com/video/59509645[height='300', width='500', poster='generic_video.png']
+
+[[week4_video2]]
+[role="shoutout"]
+.Confused by this video?
+****
+Post any questions or comments here.
+****
+
+* Read along: http://natureofcode.com/book/chapter-4-particle-systems/#chapter04_section3[Nature of Code 4.3]
+* https://github.com/shiffman/The-Nature-of-Code-Examples/tree/master/Processing/chp4_systems/NOC_4_02_ArrayListParticles[Example 4.2: ArrayList of particles]
+
+[[week4_deleting]]
+[preface]
+== Removing Elements from an ArrayList
+
+video::http://player.vimeo.com/video/60027381[height='300', width='500', poster='generic_video.png']
+
+[[week4_video3]]
+[role="shoutout"]
+.Confused by this video?
+****
+Post any questions or comments here.
+****
+
+* Read along: http://natureofcode.com/book/chapter-4-particle-systems/#chapter04_section3[Nature of Code 4.3]
+* https://github.com/shiffman/The-Nature-of-Code-Examples/tree/master/Processing/chp4_systems/NOC_4_02_ArrayListParticles[Example 4.2 ArrayList of Particles]
+
+[[week4_deleting]]
+[preface]
+== A Particle System class
+
+video::http://player.vimeo.com/video/60027380[height='300', width='500', poster='generic_video.png']
+
+[[week4_video4]]
+[role="shoutout"]
+.Confused by this video?
+****
+Post any questions or comments here.
+****
+
+* Read along: http://natureofcode.com/book/chapter-4-particle-systems/#chapter04_section4[Nature of Code: 4.4]
+* https://github.com/shiffman/The-Nature-of-Code-Examples/tree/master/Processing/chp4_systems/NOC_4_03_ParticleSystemClass[Example 4.3: ParticleSystem class]
+* https://github.com/shiffman/The-Nature-of-Code-Examples/tree/master/Processing/chp4_systems/NOC_4_04_SystemofSystems[Example 4.4: System of Systems]
+
+[[week4_inheritance]]
+[preface]
+== Inheritance and Polymorphism
+
+* Video coming soon
+
+* Read along: http://natureofcode.com/book/chapter-4-particle-systems/#chapter04_section4[Nature of Code: 4.6]
+* https://github.com/shiffman/The-Nature-of-Code-Examples/tree/master/Processing/chp4_systems/NOC_4_05_ParticleSystemInheritancePolymorphism[Examples 4.5: Inheritance and Polymorphism]
+
+
+[[week4_forces]]
+[preface]
+== Particle System and forces
+
+* Video coming soon
+
+* Read along: http://natureofcode.com/book/chapter-4-particle-systems/#chapter04_section4[Nature of Code: 4.6]
+* https://github.com/shiffman/The-Nature-of-Code-Examples/tree/master/Processing/chp4_systems/NOC_4_06_ParticleSystemForces[Examples 4.6: Particle System forces]
+* https://github.com/shiffman/The-Nature-of-Code-Examples/tree/master/Processing/chp4_systems/NOC_4_07_ParticleSystemForcesRepeller[Example 4.7: Particle System repeller]
+
+[[week4_homework]]
+[preface]
+== Homework Week 4
+
+At this point we're a bit deeper in the semester and approaching the midterm project.  Feel free to simply start on a midterm idea or continue something you've been working on previously.  If you would like to try an exercise related to particle systems, here are some suggestions:
+
+* Use a particle system in the design of a "Mover" object.  In other words take, say, one of our earlier examples and instead of rendering a Mover object as a simple circle, emit particles from the mover's location.  Consider using the http://www.shiffman.net/2011/02/13/asteroids-spaceship/[Asteroids] example and emit particles from the ship when a thrust force is applied.
+
+* Create a particle system where the particles respond to each other via forces.  For example, what if you connect the particles with spring forces?  Or an attraction / repulsion force?
+
+* Model a specific visual effect using a particle system -- fire, smoke, explosion, waterfall, etc.
+
+* Create a simulation of an object shattering into many pieces.  How can you turn one large shape into thousands of small particles?
+
+* Create a particle system in which each particle responds to every other particle.  (Note we'll be doing this in detail in Week 6.
+
+* There are more exercise suggestions in Chapter 4.
+
+As always, please create a web page to document your homework. Make sure it include some visual documentation of your work as well as the source code.
+
+[[homework_week4_links]]
+[role="shoutout"]
+.Post your homework
+****
+Post a link to your homework assignment here.
+****
+
+[preface]
+== Supplemental Reading
+
+* http://doi.acm.org/10.1145/97879.97923["Particle animation and rendering using data parallel computation", Karl Sims] (available via NYU network/proxy)
+* http://doi.acm.org/10.1145/357318.357320["Particle Systems, a Technique for Modeling a Class of Fuzzy Objects", Reeves] (available via NYU network/proxy)
+* http://www.javaranch.com/campfire/StoryPoly.jsp[How my Dog learned Polymorphism]
+* http://www.siggraph.org/education/materials/HyperGraph/animation/particle.htm[Particle Systems (Siggraph)], http://www.cs.unc.edu/+++~+++davemc/Particle/[Particle System API, by David K. McAllister], http://www.cs.wpi.edu/+++~+++matt/courses/cs563/talks/psys.html[Particle Systems by Allen Martin]
+
