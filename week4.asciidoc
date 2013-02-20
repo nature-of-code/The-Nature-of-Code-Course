@@ -61,7 +61,7 @@ Post any questions or comments here.
 * Read along: http://natureofcode.com/book/chapter-4-particle-systems/#chapter04_section3[Nature of Code 4.3]
 * https://github.com/shiffman/The-Nature-of-Code-Examples/tree/master/Processing/chp4_systems/NOC_4_02_ArrayListParticles[Example 4.2 ArrayList of Particles]
 
-[[week4_deleting]]
+[[week4_psclass]]
 [preface]
 == A Particle System class
 
