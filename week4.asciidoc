@@ -9,6 +9,7 @@ Topics for this week include:
 * <<week4_psclass, Particle System Class, System of Systems>>
 * <<week4_inheritance, Inheritance and Polymorphism>>
 * <<week4_forces, Particle Systems and Forces>>
+* <<week4_images, Particles and Textures>>
 
 [[week4_ps]]
 [preface]
@@ -82,9 +83,20 @@ Post any questions or comments here.
 [preface]
 == Inheritance and Polymorphism
 
-* Video coming soon
+video::http://player.vimeo.com/video/60187927[height='300', width='500', poster='generic_video.png']
 
-* Read along: http://natureofcode.com/book/chapter-4-particle-systems/#chapter04_section4[Nature of Code: 4.6]
+video::http://player.vimeo.com/video/60187929[height='300', width='500', poster='generic_video.png']
+
+video::http://player.vimeo.com/video/60187931[height='300', width='500', poster='generic_video.png']
+
+[[week4_video4]]
+[role="shoutout"]
+.Confused by this video?
+****
+Post any questions or comments here.
+****
+
+* Read along: http://natureofcode.com/book/chapter-4-particle-systems/#chapter04_section6[Nature of Code: 4.6]
 * https://github.com/shiffman/The-Nature-of-Code-Examples/tree/master/Processing/chp4_systems/NOC_4_05_ParticleSystemInheritancePolymorphism[Examples 4.5: Inheritance and Polymorphism]
 
 
@@ -92,11 +104,22 @@ Post any questions or comments here.
 [preface]
 == Particle System and forces
 
-* Video coming soon
+video::http://player.vimeo.com/video/60187931[height='300', width='500', poster='generic_video.png']
 
-* Read along: http://natureofcode.com/book/chapter-4-particle-systems/#chapter04_section4[Nature of Code: 4.6]
+* Read along: http://natureofcode.com/book/chapter-4-particle-systems/#chapter04_section11[Nature of Code: 4.11]
 * https://github.com/shiffman/The-Nature-of-Code-Examples/tree/master/Processing/chp4_systems/NOC_4_06_ParticleSystemForces[Examples 4.6: Particle System forces]
 * https://github.com/shiffman/The-Nature-of-Code-Examples/tree/master/Processing/chp4_systems/NOC_4_07_ParticleSystemForcesRepeller[Example 4.7: Particle System repeller]
+
+[[week4_images]]
+[preface]
+== Particle textures
+
+video::http://player.vimeo.com/video/60187934[height='300', width='500', poster='generic_video.png']
+
+* Read along: http://natureofcode.com/book/chapter-4-particle-systems/#chapter04_section13[Nature of Code: 4.13]
+* https://github.com/shiffman/The-Nature-of-Code-Examples/tree/master/Processing/chp4_systems/NOC_4_08_ParticleSystemSmoke[Example 4.8: Smoke Particle System]
+* https://github.com/shiffman/The-Nature-of-Code-Examples/tree/master/Processing/chp4_systems/NOC_4_09_AdditiveBlending[Example 4.9: Additive Blending]
+
 
 [[week4_homework]]
 [preface]
