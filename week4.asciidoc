@@ -104,7 +104,7 @@ Post any questions or comments here.
 [preface]
 == Particle System and forces
 
-video::http://player.vimeo.com/video/60187931[height='300', width='500', poster='generic_video.png']
+video::http://player.vimeo.com/video/60187932[height='300', width='500', poster='generic_video.png']
 
 * Read along: http://natureofcode.com/book/chapter-4-particle-systems/#chapter04_section11[Nature of Code: 4.11]
 * https://github.com/shiffman/The-Nature-of-Code-Examples/tree/master/Processing/chp4_systems/NOC_4_06_ParticleSystemForces[Examples 4.6: Particle System forces]
