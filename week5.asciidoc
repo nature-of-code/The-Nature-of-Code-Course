@@ -12,7 +12,7 @@ Topics for this week include:
 [preface]
 == What is Box2D?
 
-video::http://player.vimeo.com/video/########[height='300', width='500', poster='generic_video.png']
+video::http://player.vimeo.com/video/60601614[height='300', width='500', poster='generic_video.png']
 
 [[week5_video1]]
 [role="shoutout"]
@@ -30,7 +30,7 @@ Post any questions or comments here.
 [preface]
 == What are the core elements of the Box2D world?
 
-video::http://player.vimeo.com/video/########[height='300', width='500', poster='generic_video.png']
+video::http://player.vimeo.com/video/60601612[height='300', width='500', poster='generic_video.png']
 
 [[week5_video2]]
 [role="shoutout"]
@@ -46,7 +46,7 @@ Post any questions or comments here.
 [preface]
 == Box2D coordinate system and Box2D vectors
 
-video::http://player.vimeo.com/video/########[height='300', width='500', poster='generic_video.png']
+video::http://player.vimeo.com/video/60601611[height='300', width='500', poster='generic_video.png']
 
 [[week5_video3]]
 [role="shoutout"]
@@ -94,7 +94,7 @@ Post any questions or comments here.
 [preface]
 == A first Box2D sketch
 
-video::http://player.vimeo.com/video/########[height='300', width='500', poster='generic_video.png']
+video::http://player.vimeo.com/video/60601613[height='300', width='500', poster='generic_video.png']
 
 [[week5_video4]]
 [role="shoutout"]
@@ -106,3 +106,12 @@ Post any questions or comments here.
 * Read along: http://natureofcode.com/book/chapter-5-physics-libraries/#chapter05_section5[The Nature of Code: Chapter 5, Section 5]
 * https://github.com/shiffman/The-Nature-of-Code-Examples/tree/master/Processing/chp5_physicslibraries/box2d/NOC_5_1_box2d_exercise[Example 5.1: Simple Processing Sketch with no Box2D]
 * https://github.com/shiffman/The-Nature-of-Code-Examples/tree/master/Processing/chp5_physicslibraries/box2d/NOC_5_1_box2d_exercise_solved[Example 5.1: Simple Processing Sketch with Box2D added!]
+
+[[week5_homework]]
+[preface]
+== Homework Week 5
+
+For this week, you should begin working on your midterm project.  As an experiment, I'd like to try seeding a little online discussion about midterm projects.  Please visit the following link and make a post and comment on other posts:
+
+* http://natureofcode.com/itp/midterm.html[http://natureofcode.com/itp/midterm.html]
+
