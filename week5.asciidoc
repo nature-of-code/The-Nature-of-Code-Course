@@ -65,27 +65,27 @@ Post any questions or comments here.
 </tr>
 <tr>
 <td>Convert location from World to Pixels</td>
-<td><pre>Vec2 coordWorldToPixels(Vec2 world)</pre></td>
+<td>Vec2 coordWorldToPixels(Vec2 world)</td>
 </tr>
 <tr>
 <td>Convert location from World to Pixels</td>
-<td><pre>Vec2 coordWorldToPixels(float worldX, float worldY)</pre></td>
+<td>Vec2 coordWorldToPixels(float worldX, float worldY)</td>
 </tr>
 <tr>
 <td>Convert location from Pixels to World</td>
-<td><pre>Vec2 coordPixelsToWorld(Vec2 screen)</pre></td>
+<td>Vec2 coordPixelsToWorld(Vec2 screen)</td>
 </tr>
 <tr>
 <td>Convert location from Pixels to World</td>
-<td><pre>Vec2 coordPixelsToWorld(float pixelX, float pixelY)</pre></td>
+<td>Vec2 coordPixelsToWorld(float pixelX, float pixelY)</td>
 </tr>
 <tr>
 <td>Scale a dimension (such as height, width, or radius) from Pixels to World</td>
-<td><pre>float scalarPixelsToWorld(float val)</pre></td>
+<td>float scalarPixelsToWorld(float val)</td>
 </tr>
 <tr>
 <td>Scale a dimension from World to Pixels</td>
-<td><pre>float scalarWorldToPixels(float val)</pre></td>
+<td>float scalarWorldToPixels(float val)</td>
 </tr>
 </table>
 ++++
