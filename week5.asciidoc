@@ -111,7 +111,20 @@ Post any questions or comments here.
 [preface]
 == Homework Week 5
 
-For this week, you should begin working on your midterm project.  As an experiment, I'd like to try seeding a little online discussion about midterm projects.  Please visit the following link and make a post and comment on other posts:
+For this week, you should begin working on your midterm project.  As an experiment, I'd like to try seeding a little online discussion about midterm ideas.  Please visit the following link and make a post and comment on other posts:
 
 * http://natureofcode.com/itp/midterm.html[http://natureofcode.com/itp/midterm.html]
+
+If you are struggling for ideas, here are some links to midterm projects from last year:
+
+* http://itp.nyu.edu/~db2497/itp/?p=329[Dollee's Mon Mon Monsters]
+* http://www.markbreneman.com/blog/2012/03/06/plop-plop-fizz-fizz/[Mark's Plop Plop Fizz Fizz]
+* http://itp.nyu.edu/~nbe206/blog/?p=673[Natalie's Trees]
+* http://blog.benturner.com/2012/03/07/nature-of-code-midterm-genetic-crossing-with-verlet-physics/[Ben's Genetic Verlet Physics]
+* http://stu.itp.nyu.edu/~pmd299/NOC/midterm/[Peter's Name Swarm]
+* http://jann.ae/collide/[Jannae's Collide]
+* http://stu.itp.nyu.edu/~mk3981/blog/?p=1311[Mark's Waiting Game airport project]
+
+
+
 
