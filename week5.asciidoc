@@ -1,0 +1,108 @@
+[[week5]]
+= Nature of Code: Week 5
+
+Topics for this week include:
+
+* <<week5_box2d,What is Box2D and why would we use it>>
+* <<week5_box2dworld, The Box2D World>>
+* <<week5_box2dvectors, Vectors in Box2D>>
+* <<week5_box2dexercise, Hello Box2D World>>
+
+[[week5_box2d]]
+[preface]
+== What is Box2D?
+
+video::http://player.vimeo.com/video/########[height='300', width='500', poster='generic_video.png']
+
+[[week5_video1]]
+[role="shoutout"]
+.Confused by this video?
+****
+Post any questions or comments here.
+****
+
+* Read along: http://natureofcode.com/book/chapter-5-physics-libraries/[The Nature of Code: Chapter 5]
+* http://box2d.org/[Box2D web site]
+* http://www.jbox2d.org/[JBox2D web site]
+* https://github.com/shiffman/PBox2D[PBox2D github repo]
+
+[[week5_box2dworld]]
+[preface]
+== What are the core elements of the Box2D world?
+
+video::http://player.vimeo.com/video/########[height='300', width='500', poster='generic_video.png']
+
+[[week5_video2]]
+[role="shoutout"]
+.Confused by this video?
+****
+Post any questions or comments here.
+****
+
+* Read along: http://natureofcode.com/book/chapter-5-physics-libraries/#chapter05_section3[The Nature of Code: Chapter 5, Section 3]
+* http://box2d.org/manual.pdf[Box2D manual]
+
+[[week5_box2dvectors]]
+[preface]
+== Box2D coordinate system and Box2D vectors
+
+video::http://player.vimeo.com/video/########[height='300', width='500', poster='generic_video.png']
+
+[[week5_video3]]
+[role="shoutout"]
+.Confused by this video?
+****
+Post any questions or comments here.
+****
+
+* Read along: http://natureofcode.com/book/chapter-5-physics-libraries/#chapter05_section4[The Nature of Code: Chapter 5, Section 4]
+
+++++
+<table>
+<tr>
+<th>Task</th>
+<th>Function</th>
+</tr>
+<tr>
+<td>Convert location from World to Pixels</td>
+<td><pre>Vec2 coordWorldToPixels(Vec2 world)</pre></td>
+</tr>
+<tr>
+<td>Convert location from World to Pixels</td>
+<td><pre>Vec2 coordWorldToPixels(float worldX, float worldY)</pre></td>
+</tr>
+<tr>
+<td>Convert location from Pixels to World</td>
+<td><pre>Vec2 coordPixelsToWorld(Vec2 screen)</pre></td>
+</tr>
+<tr>
+<td>Convert location from Pixels to World</td>
+<td><pre>Vec2 coordPixelsToWorld(float pixelX, float pixelY)</pre></td>
+</tr>
+<tr>
+<td>Scale a dimension (such as height, width, or radius) from Pixels to World</td>
+<td><pre>float scalarPixelsToWorld(float val)</pre></td>
+</tr>
+<tr>
+<td>Scale a dimension from World to Pixels</td>
+<td><pre>float scalarWorldToPixels(float val)</pre></td>
+</tr>
+</table>
+++++
+
+[[week5_box2dexercise]]
+[preface]
+== A first Box2D sketch
+
+video::http://player.vimeo.com/video/########[height='300', width='500', poster='generic_video.png']
+
+[[week5_video4]]
+[role="shoutout"]
+.Confused by this video?
+****
+Post any questions or comments here.
+****
+
+* Read along: http://natureofcode.com/book/chapter-5-physics-libraries/#chapter05_section5[The Nature of Code: Chapter 5, Section 5]
+* https://github.com/shiffman/The-Nature-of-Code-Examples/tree/master/Processing/chp5_physicslibraries/box2d/NOC_5_1_box2d_exercise[Example 5.1: Simple Processing Sketch with no Box2D]
+* https://github.com/shiffman/The-Nature-of-Code-Examples/tree/master/Processing/chp5_physicslibraries/box2d/NOC_5_1_box2d_exercise_solved[Example 5.1: Simple Processing Sketch with Box2D added!]
