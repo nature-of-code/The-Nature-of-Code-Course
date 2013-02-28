@@ -96,7 +96,7 @@ Post any questions or comments here.
 
 video::http://player.vimeo.com/video/60601613[height='300', width='500', poster='generic_video.png']
 
-video::http://player.vimeo.com/video//########[[height='300', width='500', poster='generic_video.png']
+video::http://player.vimeo.com/video/60782773[height='300', width='500', poster='generic_video.png']
 
 [[week5_video4]]
 [role="shoutout"]
@@ -111,7 +111,7 @@ Post any questions or comments here.
 
 == Static Objects in Box2D
 
-video::http://player.vimeo.com/video/########[height='300', width='500', poster='generic_video.png']
+video::http://player.vimeo.com/video/60782770[height='300', width='500', poster='generic_video.png']
 
 [[week5_video5]]
 [role="shoutout"]
@@ -128,7 +128,7 @@ Post any questions or comments here.
 
 == Complex Shapes in Box2D
 
-video::http://player.vimeo.com/video/########[height='300', width='500', poster='generic_video.png']
+video::http://player.vimeo.com/video/60782771[height='300', width='500', poster='generic_video.png']
 
 [[week5_video6]]
 [role="shoutout"]
