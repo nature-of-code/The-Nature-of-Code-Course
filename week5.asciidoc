@@ -7,6 +7,9 @@ Topics for this week include:
 * <<week5_box2dworld, The Box2D World>>
 * <<week5_box2dvectors, Vectors in Box2D>>
 * <<week5_box2dexercise, Hello Box2D World>>
+* <<week5_static, Things that don't move in Box2D>>
+* <<week5_complex, Custom Geometry in Box2D>>
+* <<week5_homework, Midterm Homework assignment>>
 
 [[week5_box2d]]
 [preface]
@@ -109,6 +112,8 @@ Post any questions or comments here.
 * https://github.com/shiffman/The-Nature-of-Code-Examples/tree/master/Processing/chp5_physicslibraries/box2d/NOC_5_1_box2d_exercise[Example 5.1: Simple Processing Sketch with no Box2D]
 * https://github.com/shiffman/The-Nature-of-Code-Examples/tree/master/Processing/chp5_physicslibraries/box2d/NOC_5_1_box2d_exercise_solved[Example 5.1: Simple Processing Sketch with Box2D added!]
 
+[[week5_static]]
+[preface]
 == Static Objects in Box2D
 
 video::http://player.vimeo.com/video/60782770[height='300', width='500', poster='generic_video.png']
@@ -126,6 +131,8 @@ Post any questions or comments here.
 * https://github.com/shiffman/The-Nature-of-Code-Examples/tree/master/Processing/chp5_physicslibraries/box2d/Exercise_5_3_NoiseChain[Exercise 5.3: Noise Chain]
 * https://github.com/shiffman/The-Nature-of-Code-Examples/tree/master/Processing/chp5_physicslibraries/box2d/Exercise_5_3_SineChain[Exercise 5.3: Sine Chain]
 
+[[week5_complex]]
+[preface]
 == Complex Shapes in Box2D
 
 video::http://player.vimeo.com/video/60782771[height='300', width='500', poster='generic_video.png']
