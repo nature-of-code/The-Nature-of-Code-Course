@@ -181,7 +181,7 @@ Post any questions or comments here.
 [preface]
 == Applying Forces in Box2D
 
-video::http://player.vimeo.com/video/60782771[height='300', width='500', poster='generic_video.png']
+video::http://player.vimeo.com/video/61114512[height='300', width='500', poster='generic_video.png']
 
 [[week5_video8]]
 [role="shoutout"]
@@ -199,7 +199,7 @@ Post any questions or comments here.
 [preface]
 == Triggering Collision Events in Box2D
 
-video::http://player.vimeo.com/video/60782771[height='300', width='500', poster='generic_video.png']
+video::http://player.vimeo.com/video/61114514[height='300', width='500', poster='generic_video.png']
 
 [[week5_video9]]
 [role="shoutout"]
