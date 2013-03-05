@@ -9,6 +9,11 @@ Topics for this week include:
 * <<week5_box2dexercise, Hello Box2D World>>
 * <<week5_static, Things that don't move in Box2D>>
 * <<week5_complex, Custom Geometry in Box2D>>
+* <<week5_joints, Joints in Box2D>>
+* <<week5_forces, Apply forces in Box2D>>
+* <<week5_events, Collision events in Box2D>>
+
+
 * <<week5_homework, Midterm Homework assignment>>
 
 [[week5_box2d]]
@@ -147,6 +152,68 @@ Post any questions or comments here.
 * Read along: http://natureofcode.com/book/chapter-5-physics-libraries/#chapter05_section10[The Nature of Code: Chapter 5, Section 10]
 * https://github.com/shiffman/The-Nature-of-Code-Examples/tree/master/Processing/chp5_physicslibraries/box2d/NOC_5_4_Polygons[Example 5.4: Custom Polygons])
 * https://github.com/shiffman/The-Nature-of-Code-Examples/tree/master/Processing/chp5_physicslibraries/box2d/NOC_5_5_MultiShapes[Example 5.5: Attaching multiple shapes to one body]
+
+
+[[week5_joints]]
+[preface]
+== Box2D Joints
+
+video::http://player.vimeo.com/video/61114507[height='300', width='500', poster='generic_video.png']
+
+video::http://player.vimeo.com/video/61114509[height='300', width='500', poster='generic_video.png']
+
+video::http://player.vimeo.com/video/61114510[height='300', width='500', poster='generic_video.png']
+
+[[week5_video7]]
+[role="shoutout"]
+.Confused by this video?
+****
+Post any questions or comments here.
+****
+
+* Read along: http://natureofcode.com/book/chapter-5-physics-libraries/#chapter05_section11[Nature of Code 5.11]
+* https://github.com/shiffman/The-Nature-of-Code-Examples/tree/master/Processing/chp5_physicslibraries/box2d/NOC_5_6_DistanceJoint[Example 5.6: Distance Joint]
+* https://github.com/shiffman/The-Nature-of-Code-Examples/tree/master/Processing/chp5_physicslibraries/box2d/NOC_5_7_RevoluteJoint[Example 5.7: Revolute Joint]
+* https://github.com/shiffman/The-Nature-of-Code-Examples/tree/master/Processing/chp5_physicslibraries/box2d/NOC_5_8_MouseJoint[Example 5.8: Mouse Joint]
+* https://github.com/shiffman/The-Nature-of-Code-Examples/tree/master/Processing/chp5_physicslibraries/box2d/KinematicTest[Kinematic Body Demo]
+
+[[week5_forces]]
+[preface]
+== Applying Forces in Box2D
+
+video::http://player.vimeo.com/video/60782771[height='300', width='500', poster='generic_video.png']
+
+[[week5_video8]]
+[role="shoutout"]
+.Confused by this video?
+****
+Post any questions or comments here.
+****
+
+* Read along: http://natureofcode.com/book/chapter-5-physics-libraries/#chapter05_section12[Nature of Code 5.12]
+* https://github.com/shiffman/The-Nature-of-Code-Examples/tree/master/Processing/chp5_physicslibraries/box2d/Exercise_5_10_ApplyForceSimpleWind[Exercise 5.10: Wind]
+* https://github.com/shiffman/The-Nature-of-Code-Examples/tree/master/Processing/chp5_physicslibraries/box2d/Exercise_5_10_ApplyForceAttractMouse[Exercise 5.10: Attract Mouse]
+* https://github.com/shiffman/The-Nature-of-Code-Examples/tree/master/Processing/chp5_physicslibraries/box2d/Exercise_5_10_AttractionApplyForce[Exercise 5.10: Gravitational Attraction]
+
+[[week5_events]]
+[preface]
+== Triggering Collision Events in Box2D
+
+video::http://player.vimeo.com/video/60782771[height='300', width='500', poster='generic_video.png']
+
+[[week5_video9]]
+[role="shoutout"]
+.Confused by this video?
+****
+Post any questions or comments here.
+****
+
+* Read along: http://natureofcode.com/book/chapter-5-physics-libraries/#chapter05_section13[Nature of Code 5.13]
+
+* https://github.com/shiffman/The-Nature-of-Code-Examples/tree/master/Processing/chp5_physicslibraries/box2d/NOC_5_9_CollisionListening[Example 5.9: Collision Listening]
+* https://github.com/shiffman/The-Nature-of-Code-Examples/tree/master/Processing/chp5_physicslibraries/box2d/CollisionListeningDeletionExercise[Collision Deletion Demo]
+* https://github.com/shiffman/The-Nature-of-Code-Examples/tree/master/Processing/chp5_physicslibraries/box2d/CollisionsAndControl[Another Collision listening demo]
+
 
 [[week5_homework]]
 [preface]
