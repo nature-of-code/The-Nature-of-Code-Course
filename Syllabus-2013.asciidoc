@@ -26,7 +26,7 @@
 * <<week4,Week 4: Feb 20 Particle Systems>>
 * <<week5,Week 5: Feb 26 Physics Libraries: Box2D>>
 * Week 6: Mar 6 Physics Libraries: Toxiclibs
-* Week 7: Mar 13 Midterm Project Extravaganza
+* <<week7,Week 7: Mar 13 Midterm Project Extravaganza>>
 * SPRING BREAK: March 20
 * Week 8: April 3 Autonomous Agents and Steering
 * Week 9: April 10 Cellular Automata
