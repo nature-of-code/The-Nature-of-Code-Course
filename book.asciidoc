@@ -15,3 +15,5 @@ include::week3.asciidoc[]
 include::week4.asciidoc[]
 
 include::week5.asciidoc[]
+
+include::week7.asciidoc[]
