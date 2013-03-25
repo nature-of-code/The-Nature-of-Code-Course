@@ -25,7 +25,7 @@
 * <<week3,Week 3: Feb 13 Oscillation>>
 * <<week4,Week 4: Feb 20 Particle Systems>>
 * <<week5,Week 5: Feb 26 Physics Libraries: Box2D>>
-* Week 6: Mar 6 Physics Libraries: Toxiclibs (Videos coming soon!)
+* <<week6,Week 6: Mar 6 Physics Libraries: Toxiclibs>>
 * <<week7,Week 7: Mar 13 Midterm Project Extravaganza>>
 * SPRING BREAK: March 20
 * Week 8: March 27: Autonomous Agents and Complex Systems (Videos coming soon!)
