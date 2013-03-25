@@ -1,0 +1,90 @@
+[[week5]]
+= Nature of Code: Week 6
+
+Topics for this week include:
+
+* <<week6_toxiclibs,What is Toxiclibs VerletPhysics?>>
+* <<week6_toxiclibs_basics, VerletPhysics Basics: Particles and Springs>>
+* <<week6_toxiclibs_connected, Connected Systems>>
+* <<week6_attraction, Attraction Behaviors>>
+
+* <<week6_homework, Midterm Homework assignment>>
+
+[[week6_toxiclibs]]
+[preface]
+== What is ToxicLibs VerletPhysics?
+
+video::http://player.vimeo.com/video/62395897[height='300', width='500', poster='generic_video.png']
+
+[[week6_video1]]
+[role="shoutout"]
+.Confused by this video?
+****
+Post any questions or comments here.
+****
+
+* Read along: http://natureofcode.com/book/chapter-5-physics-libraries/#chapter05_section15[The Nature of Code: Chapter 5]
+* http://toxiclibs.org/[ToxicLibs]
+* https://vimeo.com/1472427[The Making of Nokia Friends]
+* http://www.gamasutra.com/resource_guide/20030121/jacobson_pfv.htm[Advanced Character Physics]
+
+[week6_toxiclibs_basics]
+[preface]
+== ToxicLibs VerletPhysics: Particles and Springs
+
+video::http://player.vimeo.com/video/62395895[height='300', width='500', poster='generic_video.png']
+
+[[week6_video2]]
+[role="shoutout"]
+.Confused by this video?
+****
+Post any questions or comments here.
+****
+
+* Read along: http://natureofcode.com/book/chapter-5-physics-libraries/#chapter05_section16[The Nature of Code: Chapter 5]
+* https://github.com/shiffman/The-Nature-of-Code-Examples/tree/master/Processing/chp5_physicslibraries/toxiclibs/NOC_5_10_SimpleSpring[Example 5.10: Simple ToxicLibs Spring]
+
+[week6_toxiclibs_connected]
+[preface]
+== Connected Systems in ToxicLibs
+
+video::http://player.vimeo.com/video/62395895[height='300', width='500', poster='generic_video.png']
+
+[[week6_video3]]
+[role="shoutout"]
+.Confused by this video?
+****
+Post any questions or comments here.
+****
+
+* Read along: http://natureofcode.com/book/chapter-5-physics-libraries/#chapter05_section18[The Nature of Code: Chapter 5]
+* https://github.com/shiffman/The-Nature-of-Code-Examples/tree/master/Processing/chp5_physicslibraries/toxiclibs/NOC_5_11_SoftStringPendulum[Example 5.11: Soft Swinging Pendulum]
+* https://github.com/shiffman/The-Nature-of-Code-Examples/tree/master/Processing/chp5_physicslibraries/toxiclibs/NOC_5_12_SimpleCluster[Example 5.12: Simple Cluster]
+* https://github.com/shiffman/The-Nature-of-Code-Examples/tree/master/Processing/chp5_physicslibraries/toxiclibs/Exercise_5_13_SoftBodySquareAdapted[Example 5.13: Soft Body (Cloth) Simulation]
+* https://github.com/shiffman/The-Nature-of-Code-Examples/tree/master/Processing/chp5_physicslibraries/toxiclibs/Exercise_5_15_ForceDirectedGraph[Exercise 5.15: Force Directed Graph]
+
+[week6_attraction]
+[preface]
+== Attraction Behaviors
+
+video::http://player.vimeo.com/video/62395896[height='300', width='500', poster='generic_video.png']
+
+[[week6_video3]]
+[role="shoutout"]
+.Confused by this video?
+****
+Post any questions or comments here.
+****
+
+* Read along: http://natureofcode.com/book/chapter-5-physics-libraries/#chapter05_section20[The Nature of Code: Chapter 5]
+* https://github.com/shiffman/The-Nature-of-Code-Examples/tree/master/Processing/chp5_physicslibraries/toxiclibs/NOC_5_13_AttractRepel[Example 5.13: Attract and Repel]
+* http://haptic-data.com/toxiclibsjs/examples/Attraction2D_pjs.html[Attraction2D (from Toxiclibs examples)]
+
+[[week6_homework]]
+[preface]
+== Homework Week 6
+
+For this week, you should finish midterm project and <<week7, post your results>>.
+
+
+
