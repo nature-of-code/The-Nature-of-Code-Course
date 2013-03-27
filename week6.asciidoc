@@ -1,4 +1,4 @@
-[[week5]]
+[[week6]]
 = Nature of Code: Week 6
 
 Topics for this week include:
@@ -58,6 +58,7 @@ Post any questions or comments here.
 ****
 
 * Read along: http://natureofcode.com/book/chapter-5-physics-libraries/#chapter05_section18[The Nature of Code: Chapter 5]
+* https://vimeo.com/1472427[The Making of Nokia Friends]
 * https://github.com/shiffman/The-Nature-of-Code-Examples/tree/master/Processing/chp5_physicslibraries/toxiclibs/NOC_5_11_SoftStringPendulum[Example 5.11: Soft Swinging Pendulum]
 * https://github.com/shiffman/The-Nature-of-Code-Examples/tree/master/Processing/chp5_physicslibraries/toxiclibs/NOC_5_12_SimpleCluster[Example 5.12: Simple Cluster]
 * https://github.com/shiffman/The-Nature-of-Code-Examples/tree/master/Processing/chp5_physicslibraries/toxiclibs/Exercise_5_13_SoftBodySquareAdapted[Example 5.13: Soft Body (Cloth) Simulation]
