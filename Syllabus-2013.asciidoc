@@ -1,5 +1,5 @@
 [preface]
-== Nature of Code Studio Syllabus
+= Nature of Code Studio Syllabus
 
 * Spring 2013
 * Daniel Shiffman, daniel.shiffman@nyu.edu
