@@ -3,19 +3,19 @@
 
 This week in order to get to the material faster than I am producing the videos, I am covering the material in class.  Following is a list of links from our discussions today.  If I've missed anything, please let me know.
 
-== http://natureofcode.com/book/chapter-6-autonomous-agents/[Session 1: Chapter 6 Autonomous Agents] (videos coming soon)
+=== http://natureofcode.com/book/chapter-6-autonomous-agents/[Session 1: Chapter 6 Autonomous Agents] (videos coming soon)
 * https://vimeo.com/22955812[Casey Reas Process Compendium]
 * http://books.google.com/books/about/Vehicles.html?id=7KkUAT_q_sQC[Vehicles: Experiments in Synthetic Psychology by Valentino Braitenberg]
 * http://www.red3d.com/cwr/steer/[Craig Reynolds' Steering]
 * http://www.nytimes.com/2007/11/13/science/13traff.html?_r=1&oref=slogin[From Ants to People, an instinct to Swarm]
 
-== http://natureofcode.com/book/chapter-7-cellular-automata[Session 2: Chapter 7 Cellular Automata] (videos coming soon)
+=== http://natureofcode.com/book/chapter-7-cellular-automata[Session 2: Chapter 7 Cellular Automata] (videos coming soon)
 * http://www.wolframscience.com/[Wolfram's A New Kind of Science]
 * http://www.ibiblio.org/lifepatterns/october1970.html[Game of Life original scientific american article]
 * https://github.com/stevenklise/ConwaysGameOfLife[Steve Klise's GOL processing.js implementation]
 * http://llk.media.mit.edu/projects/emergence/[Exploring Emergence]
 
-== http://natureofcode.com/book/chapter-8-fractals[Session 3: Chapter 9 Fractals] (videos coming soon)
+=== http://natureofcode.com/book/chapter-8-fractals[Session 3: Chapter 9 Fractals] (videos coming soon)
 * http://www.pbs.org/wgbh/nova/physics/hunting-hidden-dimension.html[Nova: Hunting the Hidden Dimension], http://www.youtube.com/watch?v=LemPnZn54Kw[Youtube Link]
 * http://en.wikipedia.org/wiki/How_Long_Is_the_Coast_of_Britain%3F_Statistical_Self-Similarity_and_Fractional_Dimension[How Long is the Coastline of Britain by Benoit Mandelbrot]
 * http://algorithmicbotany.org/papers/#abop[The Algorithmic Beauty of Plants] (for more about L-Systems)
@@ -27,10 +27,17 @@ This week in order to get to the material faster than I am producing the videos,
 For the remainder of this semester you should be working on your final project.  We'll do this in three stages.
 
 1. Final Project Experimentation -- Create several quick and dirty sketches that implement the beginnings or seeds of an idea.
-2. Final Project Proposal -- develop a more thought of plan and proposal.
+2. Final Project Proposal -- develop a plan and proposal.
 3. Final Project -- Build the final project and present in class!
 
-For your week 8 homework, do #1 above.  If you are stuck for an idea, here are some suggestions for exercises that might lead you towards an idea from the material in chapters 6-8.
+For your week 8 homework, do #1 above.   We'll worry about #2 and #3 later. If you are stuck for an idea, I'll include below a long list of suggestions for exercises that might lead you towards an idea from the material in chapters 6-8.
+
+[[homework_week8_links]]
+[role="shoutout"]
+.Post your homework
+****
+Post a link to your homework assignment here.
+****
 
 * Steering Behaviors
 ** Implement seeking a moving target, often referred to as “pursuit.“  In this case, your desired velocity won't point towards the object's current location, rather its “future“ location as extrapolated based on its current velocity.
@@ -53,11 +60,4 @@ For your week 8 homework, do #1 above.  If you are stuck for an idea, here are s
 * Fractals
 ** Build a fractal structure with physics.  For each with make a fractal tree where branch of the tree is two toxiclibs particles connected with a spring. How can you get the tree to stand up and not fall down?
 ** Use an L-system as a set of instructions for creating objects stored in an ArrayList. Use trigonometry and vector math to perform the rotations instead of matrix transformations (much like in the Koch curve example).
-
-[[homework_week8_links]]
-[role="shoutout"]
-.Post your homework
-****
-Post a link to your homework assignment here.
-****
 
