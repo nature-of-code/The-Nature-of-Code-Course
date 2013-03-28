@@ -1,4 +1,5 @@
 [[week8]]
+[preface]
 = Nature of Code: Week 8
 
 This week in order to get to the material faster than I am producing the videos, I am covering the material in class.  Following is a list of links from our discussions today.  If I've missed anything, please let me know.

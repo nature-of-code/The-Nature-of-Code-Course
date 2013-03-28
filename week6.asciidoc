@@ -1,4 +1,5 @@
 [[week6]]
+[preface]
 = Nature of Code: Week 6
 
 Topics for this week include:

@@ -1,4 +1,5 @@
 [[week2]]
+[preface]
 = Nature of Code: Week 2
 
 Topics for this week include:

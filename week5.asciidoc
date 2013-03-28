@@ -1,4 +1,5 @@
 [[week5]]
+[preface]
 = Nature of Code: Week 5
 
 Topics for this week include:

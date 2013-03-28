@@ -1,4 +1,5 @@
 [[week3]]
+[preface]
 = Nature of Code: Week 3
 
 Topics for this week include:
