@@ -13,7 +13,6 @@ Topics for this week include:
 * <<week5_forces, Apply forces in Box2D>>
 * <<week5_events, Collision events in Box2D>>
 
-
 * <<week5_homework, Midterm Homework assignment>>
 
 [[week5_box2d]]
@@ -201,7 +200,7 @@ Post any questions or comments here.
 
 video::http://player.vimeo.com/video/61114514[height='300', width='500', poster='generic_video.png']
 
-[[week5_video9]]
+[[week5_video9_oops]]
 [role="shoutout"]
 .Confused by this video?
 ****
