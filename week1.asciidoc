@@ -1,6 +1,6 @@
 [[week1]]
 [preface]
-= Nature of C= Nature of Code: Week 1
+= Nature of Code: Week 1
 
 Topics for this week include:
 
