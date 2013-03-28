@@ -28,7 +28,7 @@
 * <<week6,Week 6: Mar 6 Physics Libraries Toxiclibs>>
 * <<week7,Week 7: Mar 13 Midterm Project Extravaganza>>
 * SPRING BREAK: March 20
-* Week 8: March 27: Autonomous Agents and Complex Systems (Videos coming soon!)
+* <<week8,Week 8: March 27: Autonomous Agents and Complex Systems>> (Videos coming soon!)
 * Week 9: April 3: Machine Learning (Genetic Algorithms and Neural Networks) (Videos coming soon!)
 * Week 10: April 10: Museum of Math Field Trip (TBA)
 * Week 11: April 17: Final Project Proposal Day
