@@ -17,7 +17,6 @@
 * <<week5,Week 5: Physics Libraries Box2D>>
 * <<week6,Week 6: Physics Libraries Toxiclibs>>
 * <<week7,Week 7: Midterm Project Extravaganza>>
-* SPRING BREAK: March 20
 * <<week8,Week 8: Autonomous Agents and Complex Systems>>
 * <<week9,Week 9: Cellular Automata>>
 * <<week10,Week 10: Fractals>>

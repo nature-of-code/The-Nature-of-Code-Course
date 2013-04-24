@@ -2,24 +2,168 @@
 [preface]
 = Nature of Code: Week 8
 
-This week in order to get to the material faster than I am producing the videos, I am covering the material in class.  Following is a list of links from our discussions today.  If I've missed anything, please let me know.
+Topics for this week include:
 
-* http://natureofcode.com/book/chapter-6-autonomous-agents/[Session 1: Chapter 6 Autonomous Agents] (videos coming soon)
-** https://vimeo.com/22955812[Casey Reas Process Compendium]
-** http://books.google.com/books/about/Vehicles.html?id=7KkUAT_q_sQC[Vehicles: Experiments in Synthetic Psychology by Valentino Braitenberg]
-** http://www.red3d.com/cwr/steer/[Craig Reynolds' Steering]
-** http://www.nytimes.com/2007/11/13/science/13traff.html?_r=1&oref=slogin[From Ants to People, an instinct to Swarm]
+* <<week8_steering,Autonomous Agents and Steering Behaviors>>
+* <<week8_seek, Seeking a Target>>
+* <<week8_arrive, Arraving at a Target>>
+* <<week8_flow, Flow Field Following>>
+* <<week8_dot, The Dot Product>>
+* <<week8_path, Path Following>
+* <<week8_group, Group Steering>>
+* <<week8_combining, Combining and Weighting Multiple Steering Behaviors>>
 
-* http://natureofcode.com/book/chapter-7-cellular-automata[Session 2: Chapter 7 Cellular Automata] (videos coming soon)
-** http://www.wolframscience.com/[Wolfram's A New Kind of Science]
-** http://www.ibiblio.org/lifepatterns/october1970.html[Game of Life original scientific american article]
-** https://github.com/stevenklise/ConwaysGameOfLife[Steve Klise's GOL processing.js implementation]
-** http://llk.media.mit.edu/projects/emergence/[Exploring Emergence]
+* <<week8_homework, Week 8 Homework (onto final project)>>
 
-* http://natureofcode.com/book/chapter-8-fractals[Session 3: Chapter 9 Fractals] (videos coming soon)
-** http://www.pbs.org/wgbh/nova/physics/hunting-hidden-dimension.html[Nova: Hunting the Hidden Dimension], http://www.youtube.com/watch?v=LemPnZn54Kw[Youtube Link]
-** http://en.wikipedia.org/wiki/How_Long_Is_the_Coast_of_Britain%3F_Statistical_Self-Similarity_and_Fractional_Dimension[How Long is the Coastline of Britain by Benoit Mandelbrot]
-** http://algorithmicbotany.org/papers/#abop[The Algorithmic Beauty of Plants] (for more about L-Systems)
+[[week8_steering]]
+[preface]
+== Autonomous Agents and Steering Behaviors
+
+video::http://player.vimeo.com/video/63089178[height='300', width='500', poster='generic_video.png']
+
+[[week8_video1]]
+[role="shoutout"]
+.Confused by this video?
+****
+Post any questions or comments here.
+****
+
+* Read along: http://natureofcode.com/book/chapter-6-autonomous-agents/[Chapter 6]
+* https://github.com/shiffman/The-Nature-of-Code-Examples/tree/master/Processing/chp6_agents[All Chapter 6 Examples]
+
+* https://vimeo.com/22955812[Reas Process Compendium]
+* http://books.google.com/books/?id=7KkUAT_q_sQC[Braitenberg Vehicles]
+* http://www.red3d.com/cwr/steer/[Craig Reynolds' Steering Behaviors for Autonomous Characters]
+
+[[week8_seek]]
+[preface]
+== Seeking a Target
+
+video::http://player.vimeo.com/video/63089177[height='300', width='500', poster='generic_video.png']
+
+[[week8_video2]]
+[role="shoutout"]
+.Confused by this video?
+****
+Post any questions or comments here.
+****
+
+* Read along: http://natureofcode.com/book/chapter-6-autonomous-agents/#chapter06_section3[Chapter 6.3]
+* http://www.red3d.com/cwr/steer/SeekFlee.html[Reynolds Demo]
+* https://github.com/shiffman/The-Nature-of-Code-Examples/tree/master/Processing/chp6_agents/NOC_6_01_Seek[Example 6.1: Seek]
+
+[[week8_arrive]]
+[preface]
+== Arriving at a Target
+
+video::http://player.vimeo.com/video/63089179[height='300', width='500', poster='generic_video.png']
+
+[[week8_video3]]
+[role="shoutout"]
+.Confused by this video?
+****
+Post any questions or comments here.
+****
+
+* Read along: http://natureofcode.com/book/chapter-6-autonomous-agents/#chapter06_section4[Chapter 6.4]
+* http://www.red3d.com/cwr/steer/Arrival.html[Reynolds Demo]
+* https://github.com/shiffman/The-Nature-of-Code-Examples/tree/master/Processing/chp6_agents/NOC_6_02_Arrive[Example 6.2: Arrive]
+
+[[week8_flow]]
+[preface]
+== Flow Field Following
+
+video::http://player.vimeo.com/video/63101109[height='300', width='500', poster='generic_video.png']
+
+[[week8_video4]]
+[role="shoutout"]
+.Confused by this video?
+****
+Post any questions or comments here.
+****
+
+* Read along: http://natureofcode.com/book/chapter-6-autonomous-agents/#chapter06_section6[Chapter 6.6]
+* http://www.red3d.com/cwr/steer/FlowFollow.html[Reynolds Demo]
+* https://github.com/shiffman/The-Nature-of-Code-Examples/tree/master/Processing/chp6_agents/NOC_6_04_Flowfield[Example 6.4: Flow Field Following]
+* https://github.com/shiffman/The-Nature-of-Code-Examples/tree/master/Processing/chp6_agents/Exercise_6_08_FlowField3DNoise[Exercise 6.8: Flow Field 3D Noise]
+
+[[week8_dot]]
+[preface]
+== Vector Dot Product
+
+video::http://player.vimeo.com/video/63101108[height='300', width='500', poster='generic_video.png']
+
+[[week8_video5]]
+[role="shoutout"]
+.Confused by this video?
+****
+Post any questions or comments here.
+****
+
+* Read along: http://natureofcode.com/book/chapter-6-autonomous-agents/#chapter06_section7[Chapter 6.7]
+* http://en.wikipedia.org/wiki/Dot_product[Dot Product Wikipedia]
+* https://github.com/shiffman/The-Nature-of-Code-Examples/tree/master/Processing/chp6_agents/Exercise_6_09_AngleBetween[Exercise 6.9: Angle Between]
+* https://github.com/shiffman/The-Nature-of-Code-Examples/tree/master/Processing/chp6_agents/SimpleScalarProjection[Simple Scalar Projection demo]
+
+
+[[week8_path]]
+[preface]
+== Path Following
+
+video::http://player.vimeo.com/video/63101108[height='300', width='500', poster='generic_video.png']
+
+[[week8_video6]]
+[role="shoutout"]
+.Confused by this video?
+****
+Post any questions or comments here.
+****
+
+* Read along: http://natureofcode.com/book/chapter-6-autonomous-agents/#chapter06_section8[Chapter 6.8]
+* http://www.red3d.com/cwr/steer/PathFollow.html[Reynolds Demo]
+* https://github.com/shiffman/The-Nature-of-Code-Examples/tree/master/Processing/chp6_agents/NOC_6_05_PathFollowingSimple[Example 6.5: Simple Path Following (straight line)]
+* https://github.com/shiffman/The-Nature-of-Code-Examples/tree/master/Processing/chp6_agents/NOC_6_06_PathFollowing[Example 6.6: Path Following (with multi-point path)]
+
+[[week8_group]]
+[preface]
+== Group Steering Behaviors
+
+video::http://player.vimeo.com/video/63928275[height='300', width='500', poster='generic_video.png']
+
+[[week8_video7]]
+[role="shoutout"]
+.Confused by this video?
+****
+Post any questions or comments here.
+****
+
+* Read along: http://natureofcode.com/book/chapter-6-autonomous-agents/#chapter06_section11[Chapter 6.11]
+* http://www.red3d.com/cwr/steer/Doorway.html[Doorway Reynolds Demo]
+* http://www.red3d.com/cwr/steer/CrowdPath.html[Crowd Path Following Reynolds Demo]
+* https://github.com/shiffman/The-Nature-of-Code-Examples/tree/master/Processing/chp6_agents/Alignment[Alignment Example]
+* https://github.com/shiffman/The-Nature-of-Code-Examples/tree/master/Processing/chp6_agents/NOC_6_07_Separation[Example 6.7: Separation]
+
+[[week8_combining]]
+[preface]
+== Combining Multiple Steering Behaviors
+
+video::http://player.vimeo.com/video/63928274[height='300', width='500', poster='generic_video.png']
+
+[[week8_video8]]
+[role="shoutout"]
+.Confused by this video?
+****
+Post any questions or comments here.
+****
+
+* Read along: http://natureofcode.com/book/chapter-6-autonomous-agents/#chapter06_section12[Chapter 6.12]
+* http://www.red3d.com/cwr/boids/[Craig Reynolds Boids]
+
+* https://github.com/shiffman/The-Nature-of-Code-Examples/tree/master/Processing/chp6_agents/NOC_6_08_SeparationAndSeek[Example 6.8: Separation and Seek]
+* https://github.com/shiffman/The-Nature-of-Code-Examples/tree/master/Processing/chp6_agents/Exercise_6_13_CrowdPathFollowing[Exercise 6.13: Crowd Path Following]
+* https://github.com/shiffman/The-Nature-of-Code-Examples/tree/master/Processing/chp6_agents/NOC_6_09_Flocking[Example 6.9: Flocking]
+* https://github.com/shiffman/The-Nature-of-Code-Examples/tree/master/Processing/chp6_agents/Exercise_6_17_View[Exercise 6.17: Flake "View" Rule]
+
 
 [[week8_homework]]
 [preface]
@@ -61,4 +205,3 @@ Post a link to your homework assignment here.
 * Fractals
 ** Build a fractal structure with physics.  For each with make a fractal tree where branch of the tree is two toxiclibs particles connected with a spring. How can you get the tree to stand up and not fall down?
 ** Use an L-system as a set of instructions for creating objects stored in an ArrayList. Use trigonometry and vector math to perform the rotations instead of matrix transformations (much like in the Koch curve example).
-
