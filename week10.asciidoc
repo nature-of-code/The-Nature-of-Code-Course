@@ -116,3 +116,15 @@ Post any questions or comments here.
 [[week10_homework]]
 [preface]
 == Homework Week 10
+
+For the remainder of this semester you should be working on your final project.  We'll do this in three stages.
+
+1. Final Project Experimentation -- Create several quick and dirty sketches that implement the beginnings or seeds of an idea.
+2. Final Project Proposal -- develop a plan and proposal.
+3. Final Project -- Build the final project and present in class!
+
+For your week 10 homework, you should be on step #2 with a little bit of #3 thrown in.  I'm also including some exercise ideas related to fractals below.
+
+* Fractals
+** Build a fractal structure with physics.  For each with make a fractal tree where branch of the tree is two toxiclibs particles connected with a spring. How can you get the tree to stand up and not fall down?
+** Use an L-system as a set of instructions for creating objects stored in an ArrayList. Use trigonometry and vector math to perform the rotations instead of matrix transformations (much like in the Koch curve example).

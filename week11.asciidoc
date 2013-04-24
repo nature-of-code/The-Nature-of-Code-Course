@@ -36,3 +36,13 @@ This video is excerpted from a presentation given at Kickstarter.  Full video is
 [[week11_homework]]
 [preface]
 == Homework Week 11
+
+Final Project Proposals are due next week.
+
+The final project should be a creative project that builds off of or is inspired by the concepts we've covered this semester. You should feel free to think non-traditionally, final projects do not need to be screen-based or even involve programming
+
+Use the space below to propose your final project. You can either link to your own site or write your proposal in the comment itself. It's up to you to best present your idea, but at a minimum you should include:
+
+* Title and short paragraph description
+* Visual documentation -- drawings, videos, images, code sketches, etc
+* Links to inspiration and source material

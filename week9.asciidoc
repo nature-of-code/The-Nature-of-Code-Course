@@ -71,7 +71,7 @@ Post any questions or comments here.
 
 [[week9_exercises]]
 [preface]
-== The Game of Life
+== CA Exercises
 
 video::http://player.vimeo.com/video/64198157[height='300', width='500', poster='generic_video.png']
 
@@ -87,7 +87,23 @@ Post any questions or comments here.
 * https://github.com/shiffman/The-Nature-of-Code-Examples/tree/master/Processing/chp7_CA/Exercise_7_09_HexagonCells[Exercise 7.9: Hexagonal Cells]
 * http://freespace.virgin.net/hugo.elias/graphics/x_water.htm[2D Water Ripples CA]
 
+[[week9_homework]]
+[preface]
+== Homework Week 9
 
+For the remainder of this semester you should be working on your final project.  We'll do this in three stages.
+
+1. Final Project Experimentation -- Create several quick and dirty sketches that implement the beginnings or seeds of an idea.
+2. Final Project Proposal -- develop a plan and proposal.
+3. Final Project -- Build the final project and present in class!
+
+For your week 9 homework, you should be on step #2.  I'm also including some exercise ideas related to cellular automata below.
+
+* Cellular Automata
+** Combine CA with the flocking example -- what happens if you assign each boid a "state" which influences its behavior?
+** Consider the state of a cell to be its color.  What types of image processing filters can you create using the principles of Cellular Automata?
+** Develop your own rules for a Cellular Automata, 1D or 2D.   This could be something completely made up or a simulation of real-world phenomena.  For example, forest fires: [http://en.wikipedia.org/wiki/Forest-fire_model[http://en.wikipedia.org/wiki/Forest-fire_model]] or Predator, Prey [p. 191 of Computational Beauty of Nature.]
+** Develop an alternative "Game of Life" with time as factor, i.e. what does it mean for a cell to be "alive" or "dead" for many frames in a row.
 
 
 
