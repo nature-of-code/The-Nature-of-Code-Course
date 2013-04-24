@@ -1,0 +1,99 @@
+[[week8]]
+[preface]
+= Nature of Code: Week 9
+
+Topics for this week include:
+
+* <<week9_ca,Introduction to Cellular Automata>>
+* <<week9_wolfram,Wolfram Elementary Cellular Automata>>
+* <<week9_gol,The Game of Life>>
+* <<week9_exercises,CA Exercises>>
+
+[[week9_ca]]
+[preface]
+== Introduction to Cellular Automata
+
+video::http://player.vimeo.com/video/64198156[height='300', width='500', poster='generic_video.png']
+
+[[week9_video1]]
+[role="shoutout"]
+.Confused by this video?
+****
+Post any questions or comments here.
+****
+
+* Read along: http://natureofcode.com/book/chapter-7-cellular-automata/[Chapter 7]
+* http://en.wikipedia.org/wiki/Cellular_automaton[Wikipedia CA]
+
+[[week9_wolfram]]
+[preface]
+== Wolfram Elementary CA
+
+video::http://player.vimeo.com/video/64198154[height='300', width='500', poster='generic_video.png']
+
+[[week9_video2]]
+[role="shoutout"]
+.Confused by this video?
+****
+Post any questions or comments here.
+****
+
+* Read along: http://natureofcode.com/book/chapter-7-cellular-automata/#chapter07_section2[Chapter 7.2]
+
+* http://www.wolframscience.com/nksonline/toc.html[A New Kind of Science]
+* http://mathworld.wolfram.com/ElementaryCellularAutomaton.html[Elementary Cellular Automaton]
+* https://github.com/shiffman/The-Nature-of-Code-Examples/tree/master/Processing/chp7_CA/NOC_7_01_WolframCA_simple[Example 7.1: Wolfram Elementary CA]
+* https://github.com/shiffman/The-Nature-of-Code-Examples/tree/master/Processing/chp7_CA/Exercise_7_04_WolframCA_scrolling[Exercise 7.4: Wolfram scrolling]
+
+[[week9_gol]]
+[preface]
+== The Game of Life
+
+video::http://player.vimeo.com/video/64198155[height='300', width='500', poster='generic_video.png']
+
+[[week9_video3]]
+[role="shoutout"]
+.Confused by this video?
+****
+Post any questions or comments here.
+****
+
+* Read along: http://natureofcode.com/book/chapter-7-cellular-automata/#chapter07_section6
+
+* http://www.ibiblio.org/lifepatterns/october1970.html[Original 1970 Scientific American Article]
+
+* https://github.com/shiffman/The-Nature-of-Code-Examples/tree/master/Processing/chp7_CA/NOC_7_02_GameOfLifeSimple[Example 7.2: Game of Life]
+* https://github.com/shiffman/The-Nature-of-Code-Examples/tree/master/Processing/chp7_CA/NOC_7_03_GameOfLifeOOP[Example 7.3: Game of Life OOP]
+* https://github.com/shiffman/The-Nature-of-Code-Examples/tree/master/Processing/chp7_CA/GameOfLifeWrapAround[Game of Life "wrapped" edges]
+
+* https://github.com/stevenklise/ConwaysGameOfLife[Steve Klise's GOL processing.js implementation]
+* http://llk.media.mit.edu/projects/emergence/[Exploring Emergence]
+
+[[week9_exercises]]
+[preface]
+== The Game of Life
+
+video::http://player.vimeo.com/video/64198157[height='300', width='500', poster='generic_video.png']
+
+[[week9_video4]]
+[role="shoutout"]
+.Confused by this video?
+****
+Post any questions or comments here.
+****
+
+* Read along: http://natureofcode.com/book/chapter-7-cellular-automata/#chapter07_section9
+
+* https://github.com/shiffman/The-Nature-of-Code-Examples/tree/master/Processing/chp7_CA/Exercise_7_09_HexagonCells[Exercise 7.9: Hexagonal Cells]
+* http://freespace.virgin.net/hugo.elias/graphics/x_water.htm[2D Water Ripples CA]
+
+
+
+
+
+
+
+
+
+
+
