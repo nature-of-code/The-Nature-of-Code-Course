@@ -21,3 +21,9 @@ include::week6.asciidoc[]
 include::week7.asciidoc[]
 
 include::week8.asciidoc[]
+
+include::week9.asciidoc[]
+
+include::week10.asciidoc[]
+
+include::week11.asciidoc[]
