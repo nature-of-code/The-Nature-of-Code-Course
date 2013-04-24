@@ -1,0 +1,118 @@
+[[week10]]
+[preface]
+= Nature of Code: Week 10
+
+Topics for this week include:
+
+* <<week10_Fractals,Introduction to Fractals?>>
+* <<week10_Recursion, Recursive Functions>>
+* <<week10_ArrayList, Recusrions over an ArrayList>>
+* <<week10_pushpop, Recursion with transformations>>
+* <<week10_lsystems, L-Systems>>
+
+* <<week10_homework, Midterm Homework assignment>>
+
+[[week10_Fractals]]
+[preface]
+== What is a Fractal?
+
+video::http://player.vimeo.com/video/64424400[height='300', width='500', poster='generic_video.png']
+
+[[week10_video1]]
+[role="shoutout"]
+.Confused by this video?
+****
+Post any questions or comments here.
+****
+
+* Read along: http://natureofcode.com/book/chapter-8-fractals/[Chapter 8]
+* http://www.youtube.com/watch?v=LemPnZn54Kw[PBS Nova - Fractals - Hunting the Hidden Dimension]
+* http://en.wikipedia.org/wiki/The_Fractal_Geometry_of_Nature[Fractal Geometry of Nature]
+* http://en.wikipedia.org/wiki/Factorial[Factorial]
+* http://en.wikipedia.org/wiki/How_Long_Is_the_Coast_of_Britain%3F_Statistical_Self-Similarity_and_Fractional_Dimension[How Long is the Coastline of Britain by Benoit Mandelbrot]
+
+[[week10_Recursion]]
+[preface]
+== Writing Recursive Functions in Processing
+
+video::http://player.vimeo.com/video/64424402[height='300', width='500', poster='generic_video.png']
+
+[[week10_video2]]
+[role="shoutout"]
+.Confused by this video?
+****
+Post any questions or comments here.
+****
+
+* Read along: http://natureofcode.com/book/chapter-8-fractals/#chapter08_section2[Chapter 8.2]
+
+* http://en.wikipedia.org/wiki/Cantor_set[Cantor Set]
+* http://en.wikipedia.org/wiki/Sierpinski_triangle[Serpinski Triangle]
+* https://github.com/shiffman/The-Nature-of-Code-Examples/tree/master/Processing/chp8_fractals/NOC_8_01_Recursion[Example 8.1: Recursion]
+* https://github.com/shiffman/The-Nature-of-Code-Examples/tree/master/Processing/chp8_fractals/NOC_8_02_Recursion[Example 8.2: Recursion]
+* https://github.com/shiffman/The-Nature-of-Code-Examples/tree/master/Processing/chp8_fractals/NOC_8_03_Recursion[Example 8.3: Recursion]
+* https://github.com/shiffman/The-Nature-of-Code-Examples/tree/master/Processing/chp8_fractals/NOC_8_04_CantorSet[Example 8.4: Cantor Set]
+
+[[week10_ArrayList]]
+[preface]
+== Recursion with ArrayList of Objects
+
+video::http://player.vimeo.com/video/64424401[height='300', width='500', poster='generic_video.png']
+
+[[week10_video3]]
+[role="shoutout"]
+.Confused by this video?
+****
+Post any questions or comments here.
+****
+
+* Read along: http://natureofcode.com/book/chapter-8-fractals/#chapter08_section4[Chapter 8.4]
+
+* http://en.wikipedia.org/wiki/Koch_snowflake[Koch Snowflake]
+* https://github.com/shiffman/The-Nature-of-Code-Examples/tree/master/Processing/chp8_fractals/NOC_8_05_Koch[8.5: Koch Curve]
+* https://github.com/shiffman/The-Nature-of-Code-Examples/tree/master/Processing/chp8_fractals/Exercise_8_02_KochSnowFlake[Exercise 8.2: Koch Snowflake]
+
+[[week10_pushpop]]
+[preface]
+== Recursion with Transformations
+
+video::http://player.vimeo.com/video/64663044[height='300', width='500', poster='generic_video.png']
+
+[[week10_video4]]
+[role="shoutout"]
+.Confused by this video?
+****
+Post any questions or comments here.
+****
+
+* Read along: http://natureofcode.com/book/chapter-8-fractals/#chapter08_section5[Chapter 8.5]
+
+* http://recursivedrawing.com/[Toby Schachman's Recursive Drawing]
+* https://github.com/shiffman/The-Nature-of-Code-Examples/tree/master/Processing/chp8_fractals/NOC_8_06_Tree[Example 8.6: Tree]
+https://github.com/shiffman/The-Nature-of-Code-Examples/tree/master/Processing/chp8_fractals/NOC_8_07_TreeStochastic[Example 8.7: Stochastic Tree]
+* https://github.com/shiffman/The-Nature-of-Code-Examples/tree/master/Processing/chp8_fractals/Exercise_8_08_09_TreeArrayListLeaves[Example 8.9: Tree as ArrayList of branches (and leaves!)]
+
+[[week10_lsystems]]
+[preface]
+== L-Systems
+
+video::http://player.vimeo.com/video/64663042[height='300', width='500', poster='generic_video.png']
+
+[[week10_video5]]
+[role="shoutout"]
+.Confused by this video?
+****
+Post any questions or comments here.
+****
+
+* Read along: http://natureofcode.com/book/chapter-8-fractals/#chapter08_section6[Chapter 8.6]
+
+* http://algorithmicbotany.org/papers/#abop[Algorithmic Beauty of Plants]
+* http://books.google.com/books?id=0aUhuv7fjxMC&pg=PA78[L-Systems in Computational Beauty of Nature]
+
+* https://github.com/shiffman/The-Nature-of-Code-Examples/tree/master/Processing/chp8_fractals/NOC_8_08_SimpleLSystem[Example 8.8: Simple L-System]
+* https://github.com/shiffman/The-Nature-of-Code-Examples/tree/master/Processing/chp8_fractals/NOC_8_09_LSystem[Example 8.9: L-System]
+
+[[week10_homework]]
+[preface]
+== Homework Week 10
