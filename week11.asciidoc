@@ -1,0 +1,38 @@
+[[week11]]
+[preface]
+= Nature of Code: Week 11
+
+Topics for this week include:
+
+* <<week11_GA,Introduction to Genetic Algorithms>>
+
+[[week11_GA]]
+[preface]
+== Introduction to Genetic Algorithms
+
+video::http://player.vimeo.com/video/64663043[height='300', width='500', poster='generic_video.png']
+
+[[week11_video1]]
+[role="shoutout"]
+.Confused by this video?
+****
+Post any questions or comments here.
+****
+
+This video covers genetic algorithms and looks at how they are applied in 3 scenarios.   1: search problems where brute force is an impossibility (infinite monkey theorem).  2: physics-based systems  3: Interactive selection (i.e. user behavior driven fitness).
+
+This video is excerpted from a presentation given at Kickstarter.  Full video is here: https://vimeo.com/63755542[https://vimeo.com/63755542]
+
+* Read along: http://natureofcode.com/book/chapter-9-the-evolution-of-code/[Chapter 9]
+
+* http://www.karlsims.com/evolved-virtual-creatures.html[Evolved Virtual Creatures]
+* http://en.wikipedia.org/wiki/Infinite_monkey_theorem[Infinite Monkey Theorem]
+* http://www.blprnt.com/smartrockets/[Smart Rockets]
+* http://boxcar2d.com/[BoxCar2D]
+* http://www.karlsims.com/galapagos/[Galapagos]
+
+* https://github.com/shiffman/The-Nature-of-Code-Examples/tree/master/Processing/chp9_ga[All Chapter 9 Processing examples]
+
+[[week11_homework]]
+[preface]
+== Homework Week 11
