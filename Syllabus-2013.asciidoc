@@ -1,40 +1,30 @@
 [preface]
 = Syllabus
 
-* Spring 2013
 * Daniel Shiffman, daniel.shiffman@nyu.edu
-* https://itp.nyu.edu/inwiki/Signup/Shiffman[Office Hours Signup]
-* Wednesdays 9:30 - 3:00 pm
-
-==== What? 5.5 hours? What?  How is this going to work?  Here is the schedule we are going to start with.
-
-* 9:30 - 10:30: open work time, individual help
-* 10:30 - 12:00: full class meeting, questions, project presentations, guest lectures
-* 12:00 - 1:00: lunch break
-* 1:00 - 3:00: breakout sessions and/or individual work time
 
 ==== Important Sites
-* Free Book PDF (please download for free!!): http://natureofcode.com[http://natureofcode.com]
+* Book: http://natureofcode.com[http://natureofcode.com]
 * Code Examples: https://github.com/shiffman/The-Nature-of-Code-Examples[https://github.com/shiffman/The-Nature-of-Code-Examples])
 * All videos: https://vimeo.com/channels/464686[https://vimeo.com/channels/464686]
 * Mailing list: https://groups.google.com/a/itp.nyu.edu/group/natureofcode/[https://groups.google.com/a/itp.nyu.edu/group/natureofcode/]
 
 ==== Schedule
-* <<week1,Week 1: Jan 30 Introduction>>
-* <<week2,Week 2: Feb 6 Vectors and Forces>>
-* <<week3,Week 3: Feb 13 Oscillation>>
-* <<week4,Week 4: Feb 20 Particle Systems>>
-* <<week5,Week 5: Feb 26 Physics Libraries Box2D>>
-* <<week6,Week 6: Mar 6 Physics Libraries Toxiclibs>>
-* <<week7,Week 7: Mar 13 Midterm Project Extravaganza>>
+* <<week1,Week 1: Introduction>>
+* <<week2,Week 2: Vectors and Forces>>
+* <<week3,Week 3: Oscillation>>
+* <<week4,Week 4: Particle Systems>>
+* <<week5,Week 5: Physics Libraries Box2D>>
+* <<week6,Week 6: Physics Libraries Toxiclibs>>
+* <<week7,Week 7: Midterm Project Extravaganza>>
 * SPRING BREAK: March 20
-* <<week8,Week 8: March 27: Autonomous Agents and Complex Systems>> (Videos coming soon!)
-* Week 9: April 3: Machine Learning (Genetic Algorithms and Neural Networks) (Videos coming soon!)
-* Week 10: April 10: Museum of Math Field Trip (TBA)
-* Week 11: April 17: Final Project Proposal Day
-* Week 12: April 24: Final Project Studio Time
-* Week 13: May 1: Final Project Studio Time
-* Week 14: May 7: Final Project Extravaganza
+* <<week8,Week 8: Autonomous Agents and Complex Systems>>
+* <<week9,Week 9: Cellular Automata>>
+* <<week10,Week 10: Fractals>>
+* <<week11,Week 11: Genetic Algorithms>>
+* <<week12,Week 12: Final Project Proposals>>
+* <<week12,Week 13: Final Project Workshop>>
+* <<week12,Week 14: Final Project Presentations>>
 
 ===== Requirements
 
