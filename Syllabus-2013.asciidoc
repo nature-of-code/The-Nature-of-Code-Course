@@ -21,9 +21,9 @@
 * <<week9,Week 9: Cellular Automata>>
 * <<week10,Week 10: Fractals>>
 * <<week11,Week 11: Genetic Algorithms>>
-* <<week12,Week 12: Final Project Proposals>>
-* <<week12,Week 13: Final Project Workshop>>
-* <<week12,Week 14: Final Project Presentations>>
+* Week 12: Final Project Proposals
+* Week 13: Final Project Workshop
+* Week 14: Final Project Presentations
 
 ===== Requirements
 
