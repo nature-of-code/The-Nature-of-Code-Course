@@ -1,6 +1,6 @@
 [[week7]]
 [preface]
-= Week 7 Midterm Projects
+= Nature of Code: Week 7
 
 [[week5_video9]]
 [role="shoutout"]
